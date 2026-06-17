@@ -3,7 +3,7 @@ name: Update WC26 data
 on:
   schedule:
     # Runs every 2 hours during the tournament (June–July 2026)
-    - cron: '0 */2 * * *'
+    - cron: '0 0 * * *'
   # Also lets you trigger it manually from the Actions tab
   workflow_dispatch:
 
