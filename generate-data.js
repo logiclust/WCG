@@ -117,31 +117,43 @@ async function fetchScorers() {
   return scorers;
 }
 
-// ── Step 2: ask Claude to attribute goals to clubs ─────────────────────────
+// ── Step 2: ask Claude to attribute goals to clubs (in batches of 15) ───────
 async function attributeToClubs(scorers) {
   const apiKey = process.env.ANTHROPIC_API_KEY;
   if (!apiKey) throw new Error('ANTHROPIC_API_KEY environment variable not set');
-console.log('Key starts with:', apiKey.slice(0, 10));
-  
-  const list = scorers
-    .map(s => `${s.name} (${s.nat}, ${s.goals} goal${s.goals !== 1 ? 's' : ''})`)
-    .join('\n');
 
-  console.log('Asking Claude to attribute goals to clubs…');
+  // Split into batches of 15 to stay well within token limits
+  const BATCH_SIZE = 15;
+  const batches = [];
+  for (let i = 0; i < scorers.length; i += BATCH_SIZE) {
+    batches.push(scorers.slice(i, i + BATCH_SIZE));
+  }
 
-  const resp = await fetch('https://api.anthropic.com/v1/messages', {
-    method: 'POST',
-    headers: {
-      'Content-Type': 'application/json',
-      'x-api-key': apiKey,
-      'anthropic-version': '2023-06-01',
-    },
-    body: JSON.stringify({
-      model: 'claude-sonnet-4-6',
-      max_tokens: 4000,
-      messages: [{
-        role: 'user',
-        content: `You are a football historian. For each WC26 scorer below, list ALL their senior clubs (current + all former clubs, including significant loans).
+  console.log(`Processing ${scorers.length} scorers in ${batches.length} batches…`);
+
+  const allPlayers = [];
+
+  for (let i = 0; i < batches.length; i++) {
+    const batch = batches[i];
+    console.log(`  Batch ${i + 1}/${batches.length} (${batch.length} scorers)…`);
+
+    const list = batch
+      .map(s => `${s.name} (${s.nat}, ${s.goals} goal${s.goals !== 1 ? 's' : ''})`)
+      .join('\n');
+
+    const resp = await fetch('https://api.anthropic.com/v1/messages', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'x-api-key': apiKey,
+        'anthropic-version': '2023-06-01',
+      },
+      body: JSON.stringify({
+        model: 'claude-sonnet-4-6',
+        max_tokens: 4000,
+        messages: [{
+          role: 'user',
+          content: `You are a football historian. For each WC26 scorer below, list ALL their senior clubs (current + all former clubs, including significant loans).
 
 ${list}
 
@@ -149,25 +161,34 @@ Reply ONLY with a JSON array, no markdown fences, no explanation:
 [{"player":"Name","nat":"Nation","goals":2,"clubs":[{"name":"Club","nation":"Country","league":"League","current":true}]}]
 
 Be comprehensive. If unsure, include at minimum their current club.`,
-      }],
-    }),
-  });
+        }],
+      }),
+    });
 
-  if (!resp.ok) {
-    const err = await resp.json().catch(() => ({}));
-    throw new Error((err.error && err.error.message) || `Anthropic API returned ${resp.status}`);
+    if (!resp.ok) {
+      const err = await resp.json().catch(() => ({}));
+      throw new Error((err.error && err.error.message) || `Anthropic API returned ${resp.status}`);
+    }
+
+    const data = await resp.json();
+    const text = (data.content || [])
+      .filter(b => b.type === 'text')
+      .map(b => b.text)
+      .join('');
+
+    const match = text.match(/\[[\s\S]*\]/);
+    if (!match) throw new Error(`Batch ${i + 1}: Claude returned unexpected format:\n` + text.slice(0, 300));
+
+    const players = JSON.parse(match[0]);
+    allPlayers.push(...players);
+
+    // Small delay between batches to avoid rate limiting
+    if (i < batches.length - 1) await new Promise(r => setTimeout(r, 1000));
   }
 
-  const data = await resp.json();
-  const text = (data.content || [])
-    .filter(b => b.type === 'text')
-    .map(b => b.text)
-    .join('');
-
-  const match = text.match(/\[[\s\S]*\]/);
-  if (!match) throw new Error('Claude returned unexpected format:\n' + text.slice(0, 300));
-  return JSON.parse(match[0]);
+  return allPlayers;
 }
+
 
 // ── Step 3: build club map ─────────────────────────────────────────────────
 function buildClubs(players) {
