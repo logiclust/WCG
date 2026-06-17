@@ -121,7 +121,8 @@ async function fetchScorers() {
 async function attributeToClubs(scorers) {
   const apiKey = process.env.ANTHROPIC_API_KEY;
   if (!apiKey) throw new Error('ANTHROPIC_API_KEY environment variable not set');
-
+console.log('Key starts with:', apiKey.slice(0, 10));
+  
   const list = scorers
     .map(s => `${s.name} (${s.nat}, ${s.goals} goal${s.goals !== 1 ? 's' : ''})`)
     .join('\n');
