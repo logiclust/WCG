@@ -158,9 +158,14 @@ async function attributeToClubs(scorers) {
 ${list}
 
 Reply ONLY with a JSON array, no markdown fences, no explanation:
-[{"player":"Name","nat":"Nation","goals":2,"clubs":[{"name":"Club","nation":"Country","league":"League","current":true}]}]
+[{"player":"Name","nat":"Nation","goals":2,"clubs":[{"name":"Club","nation":"Country","league":"League","current":true,"logo":"https://upload.wikimedia.org/wikipedia/..."}]}]
 
-Be comprehensive. If unsure, include at minimum their current club.`,
+For the "logo" field, provide the exact Wikimedia Commons or Wikipedia SVG URL for the club's official crest/badge. Use URLs in this format:
+- https://upload.wikimedia.org/wikipedia/en/x/xx/Club_Name.svg
+- https://upload.wikimedia.org/wikipedia/commons/x/xx/Club_Name.svg
+If you are not confident of the exact URL, set logo to null.
+
+Be comprehensive with clubs. If unsure of a club, include at minimum their current club.`,
         }],
       }),
     });
@@ -200,7 +205,7 @@ function buildClubs(players) {
           club: c.name,
           nation: c.nation || '',
           league: c.league || '',
-          logo: KNOWN_LOGOS[c.name] || null,
+          logo: c.logo || KNOWN_LOGOS[c.name] || null,
           goals: 0,
           players: [],
         };
