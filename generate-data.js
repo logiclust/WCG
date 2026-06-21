@@ -123,7 +123,7 @@ async function attributeToClubs(scorers) {
   if (!apiKey) throw new Error('ANTHROPIC_API_KEY environment variable not set');
 
   // Split into batches of 15 to stay well within token limits
-  const BATCH_SIZE = 15;
+  const BATCH_SIZE = 8;
   const batches = [];
   for (let i = 0; i < scorers.length; i += BATCH_SIZE) {
     batches.push(scorers.slice(i, i + BATCH_SIZE));
@@ -150,7 +150,7 @@ async function attributeToClubs(scorers) {
       },
       body: JSON.stringify({
         model: 'claude-sonnet-4-6',
-        max_tokens: 4000,
+        max_tokens: 6000,
         messages: [{
           role: 'user',
           content: `You are a football historian. For each WC26 scorer below, list ALL their senior clubs (current + all former clubs, including significant loans).
