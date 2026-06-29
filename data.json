@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-06-28T17:36:19.035Z",
-  "totalGoals": 203,
-  "scorers": 143,
+  "updatedAt": "2026-06-29T02:59:32.837Z",
+  "totalGoals": 204,
+  "scorers": 144,
   "nations": 47,
   "clubs": [
     {
@@ -135,14 +135,8 @@
       "nation": "Spain",
       "league": "La Liga",
       "logo": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg",
-      "goals": 15,
+      "goals": 14,
       "players": [
-        {
-          "name": "Álvaro Fidalgo",
-          "nat": "Mexico",
-          "goals": 1,
-          "current": false
-        },
         {
           "name": "Vinícius Júnior",
           "nat": "Brazil",
@@ -233,6 +227,51 @@
       ]
     },
     {
+      "club": "Stade Rennais",
+      "nation": "France",
+      "league": "Ligue 1",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/b/b9/Stade_Rennais_F.C._logo.svg",
+      "goals": 11,
+      "players": [
+        {
+          "name": "Wilson Isidor",
+          "nat": "Haiti",
+          "goals": 1,
+          "current": false
+        },
+        {
+          "name": "Leo Østigard",
+          "nat": "Norway",
+          "goals": 1,
+          "current": true
+        },
+        {
+          "name": "Ousmane Dembélé",
+          "nat": "France",
+          "goals": 4,
+          "current": false
+        },
+        {
+          "name": "Ismaïla Sarr",
+          "nat": "Senegal",
+          "goals": 3,
+          "current": false
+        },
+        {
+          "name": "Désiré Doué",
+          "nat": "France",
+          "goals": 1,
+          "current": false
+        },
+        {
+          "name": "Amine Gouiri",
+          "nat": "Algeria",
+          "goals": 1,
+          "current": false
+        }
+      ]
+    },
+    {
       "club": "Brighton & Hove Albion",
       "nation": "England",
       "league": "Premier League",
@@ -261,7 +300,7 @@
           "name": "Jan Paul van Hecke",
           "nat": "Netherlands",
           "goals": 1,
-          "current": true
+          "current": false
         },
         {
           "name": "Leandro Trossard",
@@ -278,67 +317,85 @@
       ]
     },
     {
-      "club": "FC Barcelona",
-      "nation": "Spain",
-      "league": "La Liga",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg",
-      "goals": 10,
-      "players": [
-        {
-          "name": "Ousmane Dembélé",
-          "nat": "France",
-          "goals": 4,
-          "current": false
-        },
-        {
-          "name": "Lionel Messi",
-          "nat": "Argentina",
-          "goals": 6,
-          "current": false
-        }
-      ]
-    },
-    {
-      "club": "Inter Milan",
-      "nation": "Italy",
-      "league": "Serie A",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/0/05/FC_Internazionale_Milano_2021.svg",
+      "club": "Sporting CP",
+      "nation": "Portugal",
+      "league": "Primeira Liga",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/f/f7/Sporting_CP.svg",
       "goals": 9,
       "players": [
         {
-          "name": "Jonathan David",
+          "name": "Cyle Larin",
           "nat": "Canada",
-          "goals": 3,
-          "current": true
-        },
-        {
-          "name": "Achraf Hakimi",
-          "nat": "Morocco",
-          "goals": 1,
-          "current": false
-        },
-        {
-          "name": "Romelu Lukaku",
-          "nat": "Belgium",
-          "goals": 1,
-          "current": false
-        },
-        {
-          "name": "Romelu Lukaku",
-          "nat": "Belgium",
-          "goals": 1,
-          "current": false
-        },
-        {
-          "name": "Marko Arnautovic",
-          "nat": "Austria",
           "goals": 2,
           "current": false
         },
         {
-          "name": "Lautaro Martínez",
-          "nat": "Argentina",
+          "name": "Gonzalo Plata",
+          "nat": "Ecuador",
           "goals": 1,
+          "current": false
+        },
+        {
+          "name": "Viktor Gyökeres",
+          "nat": "Sweden",
+          "goals": 1,
+          "current": true
+        },
+        {
+          "name": "Cristiano Ronaldo",
+          "nat": "Portugal",
+          "goals": 2,
+          "current": false
+        },
+        {
+          "name": "Nuno Mendes",
+          "nat": "Portugal",
+          "goals": 1,
+          "current": false
+        },
+        {
+          "name": "Rafael Leão",
+          "nat": "Portugal",
+          "goals": 1,
+          "current": false
+        },
+        {
+          "name": "Petar Musa",
+          "nat": "Croatia",
+          "goals": 1,
+          "current": true
+        }
+      ]
+    },
+    {
+      "club": "Crystal Palace",
+      "nation": "England",
+      "league": "Premier League",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/a/a2/Crystal_Palace_FC_logo_%282022%29.svg",
+      "goals": 9,
+      "players": [
+        {
+          "name": "Folarin Balogun",
+          "nat": "USA",
+          "goals": 2,
+          "current": true
+        },
+        {
+          "name": "Daichi Kamada",
+          "nat": "Japan",
+          "goals": 2,
+          "current": true
+        },
+        {
+          "name": "Ismaïla Sarr",
+          "nat": "Senegal",
+          "goals": 3,
+          "current": false
+        },
+        {
+          "name": "Daniel Muñoz",
+          "nat": "Colombia",
+          "goals": 2,
           "current": true
         }
       ]
@@ -383,39 +440,6 @@
       ]
     },
     {
-      "club": "Stade Rennais",
-      "nation": "France",
-      "league": "Ligue 1",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/5/57/Stade_Rennais_FC_logo.svg",
-      "goals": 9,
-      "players": [
-        {
-          "name": "Ousmane Dembélé",
-          "nat": "France",
-          "goals": 4,
-          "current": false
-        },
-        {
-          "name": "Ismaïla Sarr",
-          "nat": "Senegal",
-          "goals": 3,
-          "current": false
-        },
-        {
-          "name": "Désiré Doué",
-          "nat": "France",
-          "goals": 1,
-          "current": false
-        },
-        {
-          "name": "Amine Gouiri",
-          "nat": "Algeria",
-          "goals": 1,
-          "current": false
-        }
-      ]
-    },
-    {
       "club": "PSV Eindhoven",
       "nation": "Netherlands",
       "league": "Eredivisie",
@@ -432,7 +456,7 @@
           "name": "Ismael Saibari",
           "nat": "Morocco",
           "goals": 3,
-          "current": true
+          "current": false
         },
         {
           "name": "Cody Gakpo",
@@ -455,35 +479,80 @@
       ]
     },
     {
-      "club": "RB Leipzig",
+      "club": "Bayern Munich",
       "nation": "Germany",
       "league": "Bundesliga",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/0/04/RB_Leipzig_2014_logo.svg",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282002%E2%80%932017%29.svg",
       "goals": 8,
       "players": [
         {
-          "name": "Matheus Cunha",
-          "nat": "Brazil",
-          "goals": 3,
+          "name": "Nestory Irankunda",
+          "nat": "Australia",
+          "goals": 1,
+          "current": true
+        },
+        {
+          "name": "Jamal Musiala",
+          "nat": "Germany",
+          "goals": 1,
+          "current": true
+        },
+        {
+          "name": "Nathaniel Brown",
+          "nat": "Germany",
+          "goals": 1,
           "current": false
         },
         {
-          "name": "Keito Nakamura",
+          "name": "Leroy Sané",
+          "nat": "Germany",
+          "goals": 1,
+          "current": true
+        },
+        {
+          "name": "Marcel Sabitzer",
+          "nat": "Austria",
+          "goals": 1,
+          "current": false
+        },
+        {
+          "name": "Harry Kane",
+          "nat": "England",
+          "goals": 3,
+          "current": true
+        }
+      ]
+    },
+    {
+      "club": "VfB Stuttgart",
+      "nation": "Germany",
+      "league": "Bundesliga",
+      "logo": null,
+      "goals": 8,
+      "players": [
+        {
+          "name": "Deniz Undav",
+          "nat": "Germany",
+          "goals": 3,
+          "current": true
+        },
+        {
+          "name": "Daichi Kamada",
           "nat": "Japan",
-          "goals": 1,
-          "current": true
-        },
-        {
-          "name": "Brian Brobbey",
-          "nat": "Netherlands",
-          "goals": 3,
+          "goals": 2,
           "current": false
         },
         {
-          "name": "Petar Sucic",
-          "nat": "Croatia",
-          "goals": 1,
+          "name": "Yasin Ayari",
+          "nat": "Sweden",
+          "goals": 2,
           "current": true
+        },
+        {
+          "name": "Sasa Kalajdzic",
+          "nat": "Austria",
+          "goals": 1,
+          "current": false
         }
       ]
     },
@@ -533,206 +602,101 @@
       ]
     },
     {
-      "club": "Sporting CP",
-      "nation": "Portugal",
-      "league": "Primeira Liga",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/f/f7/Sporting_CP.svg",
-      "goals": 8,
+      "club": "RB Leipzig",
+      "nation": "Germany",
+      "league": "Bundesliga",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/0/04/RB_Leipzig_2014_logo.svg",
+      "goals": 7,
       "players": [
+        {
+          "name": "Matheus Cunha",
+          "nat": "Brazil",
+          "goals": 3,
+          "current": false
+        },
+        {
+          "name": "Brian Brobbey",
+          "nat": "Netherlands",
+          "goals": 3,
+          "current": false
+        },
+        {
+          "name": "Petar Sucic",
+          "nat": "Croatia",
+          "goals": 1,
+          "current": true
+        }
+      ]
+    },
+    {
+      "club": "Club América",
+      "nation": "Mexico",
+      "league": "Liga MX",
+      "logo": null,
+      "goals": 6,
+      "players": [
+        {
+          "name": "Julián Quiñones",
+          "nat": "Mexico",
+          "goals": 2,
+          "current": true
+        },
+        {
+          "name": "Raúl Jiménez",
+          "nat": "Mexico",
+          "goals": 1,
+          "current": false
+        },
+        {
+          "name": "Raúl Jiménez",
+          "nat": "Mexico",
+          "goals": 1,
+          "current": true
+        },
+        {
+          "name": "Luis Romo",
+          "nat": "Mexico",
+          "goals": 1,
+          "current": true
+        },
+        {
+          "name": "Álvaro Fidalgo",
+          "nat": "Mexico",
+          "goals": 1,
+          "current": false
+        }
+      ]
+    },
+    {
+      "club": "Al-Qadsiah",
+      "nation": "Saudi Arabia",
+      "league": "Saudi Pro League",
+      "logo": null,
+      "goals": 6,
+      "players": [
+        {
+          "name": "Ismael Saibari",
+          "nat": "Morocco",
+          "goals": 3,
+          "current": true
+        },
+        {
+          "name": "Soufiane Rahimi",
+          "nat": "Morocco",
+          "goals": 1,
+          "current": true
+        },
         {
           "name": "Gonzalo Plata",
           "nat": "Ecuador",
           "goals": 1,
-          "current": false
-        },
-        {
-          "name": "Viktor Gyökeres",
-          "nat": "Sweden",
-          "goals": 1,
           "current": true
         },
         {
-          "name": "Kevin Pina",
-          "nat": "Cape Verde",
-          "goals": 1,
-          "current": false
-        },
-        {
-          "name": "Cristiano Ronaldo",
-          "nat": "Portugal",
-          "goals": 2,
-          "current": false
-        },
-        {
-          "name": "Nuno Mendes",
-          "nat": "Portugal",
-          "goals": 1,
-          "current": false
-        },
-        {
-          "name": "Rafael Leão",
-          "nat": "Portugal",
-          "goals": 1,
-          "current": false
-        },
-        {
-          "name": "Petar Musa",
-          "nat": "Croatia",
-          "goals": 1,
-          "current": false
-        }
-      ]
-    },
-    {
-      "club": "Red Bull Salzburg",
-      "nation": "Austria",
-      "league": "Austrian Bundesliga",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/8/8d/Red_Bull_Salzburg_logo.svg",
-      "goals": 7,
-      "players": [
-        {
-          "name": "Ermin Mahmic",
-          "nat": "Bosnia & Herzegovina",
-          "goals": 2,
-          "current": false
-        },
-        {
-          "name": "Erling Haaland",
-          "nat": "Norway",
-          "goals": 4,
-          "current": false
-        },
-        {
-          "name": "Marcel Sabitzer",
-          "nat": "Austria",
-          "goals": 1,
-          "current": false
-        }
-      ]
-    },
-    {
-      "club": "Monaco",
-      "nation": "France",
-      "league": "Ligue 1",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/e/ea/AS_Monaco_FC.svg",
-      "goals": 7,
-      "players": [
-        {
-          "name": "Wilson Isidor",
-          "nat": "Haiti",
-          "goals": 1,
-          "current": false
-        },
-        {
-          "name": "Folarin Balogun",
-          "nat": "USA",
-          "goals": 2,
-          "current": true
-        },
-        {
-          "name": "Kylian Mbappé",
-          "nat": "France",
-          "goals": 4,
-          "current": false
-        }
-      ]
-    },
-    {
-      "club": "Bayern Munich",
-      "nation": "Germany",
-      "league": "Bundesliga",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282002%E2%80%932017%29.svg",
-      "goals": 7,
-      "players": [
-        {
-          "name": "Nestory Irankunda",
-          "nat": "Australia",
+          "name": "Nadhir Benbouali",
+          "nat": "Algeria",
           "goals": 1,
           "current": true
-        },
-        {
-          "name": "Jamal Musiala",
-          "nat": "Germany",
-          "goals": 1,
-          "current": true
-        },
-        {
-          "name": "Leroy Sané",
-          "nat": "Germany",
-          "goals": 1,
-          "current": true
-        },
-        {
-          "name": "Marcel Sabitzer",
-          "nat": "Austria",
-          "goals": 1,
-          "current": false
-        },
-        {
-          "name": "Harry Kane",
-          "nat": "England",
-          "goals": 3,
-          "current": true
-        }
-      ]
-    },
-    {
-      "club": "Crystal Palace",
-      "nation": "England",
-      "league": "Premier League",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/a/a2/Crystal_Palace_FC_logo_%282022%29.svg",
-      "goals": 7,
-      "players": [
-        {
-          "name": "Daichi Kamada",
-          "nat": "Japan",
-          "goals": 2,
-          "current": true
-        },
-        {
-          "name": "Ismaïla Sarr",
-          "nat": "Senegal",
-          "goals": 3,
-          "current": false
-        },
-        {
-          "name": "Daniel Muñoz",
-          "nat": "Colombia",
-          "goals": 2,
-          "current": true
-        }
-      ]
-    },
-    {
-      "club": "FC Basel",
-      "nation": "Switzerland",
-      "league": "Swiss Super League",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/c/c3/FC_Basel_logo.svg",
-      "goals": 6,
-      "players": [
-        {
-          "name": "Breel Embolo",
-          "nat": "Switzerland",
-          "goals": 1,
-          "current": false
-        },
-        {
-          "name": "Granit Xhaka",
-          "nat": "Switzerland",
-          "goals": 1,
-          "current": false
-        },
-        {
-          "name": "Elijah Just",
-          "nat": "New Zealand",
-          "goals": 3,
-          "current": false
-        },
-        {
-          "name": "Mohamed Salah",
-          "nat": "Egypt",
-          "goals": 1,
-          "current": false
         }
       ]
     },
@@ -756,6 +720,12 @@
           "current": false
         },
         {
+          "name": "Mohamed Salah",
+          "nat": "Egypt",
+          "goals": 1,
+          "current": false
+        },
+        {
           "name": "Kevin De Bruyne",
           "nat": "Belgium",
           "goals": 1,
@@ -766,11 +736,32 @@
           "nat": "Belgium",
           "goals": 1,
           "current": false
+        }
+      ]
+    },
+    {
+      "club": "Barcelona",
+      "nation": "Spain",
+      "league": "La Liga",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg",
+      "goals": 6,
+      "players": [
+        {
+          "name": "Franck Kessié",
+          "nat": "Ivory Coast",
+          "goals": 1,
+          "current": false
         },
         {
-          "name": "Romelu Lukaku",
-          "nat": "Belgium",
+          "name": "Lamine Yamal",
+          "nat": "Spain",
           "goals": 1,
+          "current": true
+        },
+        {
+          "name": "Ousmane Dembélé",
+          "nat": "France",
+          "goals": 4,
           "current": false
         }
       ]
@@ -797,34 +788,43 @@
       ]
     },
     {
-      "club": "Genk",
-      "nation": "Belgium",
-      "league": "Belgian First Division A",
-      "logo": null,
+      "club": "Red Bull Salzburg",
+      "nation": "Austria",
+      "league": "Austrian Bundesliga",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/a/a4/FC_Red_Bull_Salzburg_logo.svg",
       "goals": 6,
       "players": [
         {
-          "name": "Leandro Trossard",
-          "nat": "Belgium",
-          "goals": 2,
-          "current": false
-        },
-        {
-          "name": "Kevin De Bruyne",
-          "nat": "Belgium",
-          "goals": 1,
-          "current": false
-        },
-        {
-          "name": "Marcus Holmgren Pedersen",
+          "name": "Erling Haaland",
           "nat": "Norway",
-          "goals": 1,
-          "current": true
+          "goals": 4,
+          "current": false
         },
         {
-          "name": "Daniel Muñoz",
-          "nat": "Colombia",
-          "goals": 2,
+          "name": "Romano Schmid",
+          "nat": "Austria",
+          "goals": 1,
+          "current": false
+        },
+        {
+          "name": "Marcel Sabitzer",
+          "nat": "Austria",
+          "goals": 1,
+          "current": false
+        }
+      ]
+    },
+    {
+      "club": "FC Barcelona",
+      "nation": "Spain",
+      "league": "La Liga",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg",
+      "goals": 6,
+      "players": [
+        {
+          "name": "Lionel Messi",
+          "nat": "Argentina",
+          "goals": 6,
           "current": false
         }
       ]
@@ -840,39 +840,6 @@
           "name": "Lionel Messi",
           "nat": "Argentina",
           "goals": 6,
-          "current": true
-        }
-      ]
-    },
-    {
-      "club": "Club América",
-      "nation": "Mexico",
-      "league": "Liga MX",
-      "logo": null,
-      "goals": 5,
-      "players": [
-        {
-          "name": "Julián Quiñones",
-          "nat": "Mexico",
-          "goals": 2,
-          "current": true
-        },
-        {
-          "name": "Raúl Jiménez",
-          "nat": "Mexico",
-          "goals": 1,
-          "current": true
-        },
-        {
-          "name": "Luis Romo",
-          "nat": "Mexico",
-          "goals": 1,
-          "current": true
-        },
-        {
-          "name": "Álvaro Fidalgo",
-          "nat": "Mexico",
-          "goals": 1,
           "current": true
         }
       ]
@@ -905,56 +872,110 @@
       ]
     },
     {
-      "club": "Club Brugge",
-      "nation": "Belgium",
-      "league": "First Division A",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/a/a9/Club_Brugge_KV_logo.svg",
+      "club": "AS Monaco",
+      "nation": "France",
+      "league": "Ligue 1",
+      "logo": null,
       "goals": 5,
       "players": [
         {
-          "name": "Cyle Larin",
-          "nat": "Canada",
+          "name": "Breel Embolo",
+          "nat": "Switzerland",
+          "goals": 1,
+          "current": true
+        },
+        {
+          "name": "Kylian Mbappé",
+          "nat": "France",
+          "goals": 4,
+          "current": false
+        }
+      ]
+    },
+    {
+      "club": "Bayer Leverkusen",
+      "nation": "Germany",
+      "league": "Bundesliga",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/5/59/Bayer_04_Leverkusen_logo.svg",
+      "goals": 5,
+      "players": [
+        {
+          "name": "Granit Xhaka",
+          "nat": "Switzerland",
+          "goals": 1,
+          "current": true
+        },
+        {
+          "name": "Kai Havertz",
+          "nat": "Germany",
           "goals": 2,
           "current": false
         },
         {
-          "name": "Ramin Rezaeian",
-          "nat": "Iran",
-          "goals": 2,
-          "current": false
+          "name": "Jan Paul van Hecke",
+          "nat": "Netherlands",
+          "goals": 1,
+          "current": true
         },
         {
-          "name": "Mousa Al-Tamari",
-          "nat": "Jordan",
+          "name": "Martin Baturina",
+          "nat": "Croatia",
           "goals": 1,
           "current": true
         }
       ]
     },
     {
-      "club": "Willem II",
-      "nation": "Netherlands",
-      "league": "Eredivisie",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Willem_II_logo.svg",
+      "club": "LOSC Lille",
+      "nation": "France",
+      "league": "Ligue 1",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/62/Losc_lille_football_club_2011_logo.svg",
       "goals": 5,
       "players": [
         {
-          "name": "Ismael Saibari",
-          "nat": "Morocco",
+          "name": "Jonathan David",
+          "nat": "Canada",
           "goals": 3,
           "current": false
         },
         {
-          "name": "Alexander Isak",
-          "nat": "Sweden",
+          "name": "Nicolas Pépé",
+          "nat": "Ivory Coast",
+          "goals": 2,
+          "current": false
+        }
+      ]
+    },
+    {
+      "club": "Inter Milan",
+      "nation": "Italy",
+      "league": "Serie A",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/0/05/FC_Internazionale_Milano_2021.svg",
+      "goals": 5,
+      "players": [
+        {
+          "name": "Achraf Hakimi",
+          "nat": "Morocco",
           "goals": 1,
           "current": false
         },
         {
-          "name": "Derrick Luckassen",
-          "nat": "Ghana",
+          "name": "Romelu Lukaku",
+          "nat": "Belgium",
           "goals": 1,
           "current": false
+        },
+        {
+          "name": "Marko Arnautovic",
+          "nat": "Austria",
+          "goals": 2,
+          "current": false
+        },
+        {
+          "name": "Lautaro Martínez",
+          "nat": "Argentina",
+          "goals": 1,
+          "current": true
         }
       ]
     },
@@ -992,6 +1013,45 @@
       ]
     },
     {
+      "club": "Anderlecht",
+      "nation": "Belgium",
+      "league": "First Division A",
+      "logo": null,
+      "goals": 5,
+      "players": [
+        {
+          "name": "Felix Nmecha",
+          "nat": "Germany",
+          "goals": 1,
+          "current": false
+        },
+        {
+          "name": "Trézéguet",
+          "nat": "Egypt",
+          "goals": 1,
+          "current": false
+        },
+        {
+          "name": "Romelu Lukaku",
+          "nat": "Belgium",
+          "goals": 1,
+          "current": false
+        },
+        {
+          "name": "Alexis Saelemaekers",
+          "nat": "Belgium",
+          "goals": 1,
+          "current": false
+        },
+        {
+          "name": "Derrick Luckassen",
+          "nat": "Ghana",
+          "goals": 1,
+          "current": false
+        }
+      ]
+    },
+    {
       "club": "Feyenoord",
       "nation": "Netherlands",
       "league": "Eredivisie",
@@ -1019,6 +1079,66 @@
       ]
     },
     {
+      "club": "Trabzonspor",
+      "nation": "Turkey",
+      "league": "Süper Lig",
+      "logo": null,
+      "goals": 5,
+      "players": [
+        {
+          "name": "Nicolas Pépé",
+          "nat": "Ivory Coast",
+          "goals": 2,
+          "current": true
+        },
+        {
+          "name": "Trézéguet",
+          "nat": "Egypt",
+          "goals": 1,
+          "current": false
+        },
+        {
+          "name": "Pape Gueye",
+          "nat": "Senegal",
+          "goals": 2,
+          "current": true
+        }
+      ]
+    },
+    {
+      "club": "Liverpool",
+      "nation": "England",
+      "league": "Premier League",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg",
+      "goals": 5,
+      "players": [
+        {
+          "name": "Virgil van Dijk",
+          "nat": "Netherlands",
+          "goals": 1,
+          "current": true
+        },
+        {
+          "name": "Cody Gakpo",
+          "nat": "Netherlands",
+          "goals": 2,
+          "current": true
+        },
+        {
+          "name": "Mohamed Salah",
+          "nat": "Egypt",
+          "goals": 1,
+          "current": false
+        },
+        {
+          "name": "Luis Díaz",
+          "nat": "Colombia",
+          "goals": 1,
+          "current": true
+        }
+      ]
+    },
+    {
       "club": "West Ham United",
       "nation": "England",
       "league": "Premier League",
@@ -1041,6 +1161,33 @@
           "name": "Nikola Vlasic",
           "nat": "Croatia",
           "goals": 1,
+          "current": false
+        }
+      ]
+    },
+    {
+      "club": "Genk",
+      "nation": "Belgium",
+      "league": "First Division A",
+      "logo": null,
+      "goals": 5,
+      "players": [
+        {
+          "name": "Leandro Trossard",
+          "nat": "Belgium",
+          "goals": 2,
+          "current": false
+        },
+        {
+          "name": "Kevin De Bruyne",
+          "nat": "Belgium",
+          "goals": 1,
+          "current": false
+        },
+        {
+          "name": "Daniel Muñoz",
+          "nat": "Colombia",
+          "goals": 2,
           "current": false
         }
       ]
@@ -1109,10 +1256,37 @@
       ]
     },
     {
+      "club": "Club Brugge",
+      "nation": "Belgium",
+      "league": "Belgian First Division A",
+      "logo": null,
+      "goals": 4,
+      "players": [
+        {
+          "name": "Hwang In-Beom",
+          "nat": "South Korea",
+          "goals": 1,
+          "current": false
+        },
+        {
+          "name": "Cyle Larin",
+          "nat": "Canada",
+          "goals": 2,
+          "current": false
+        },
+        {
+          "name": "Nilson Angulo",
+          "nat": "Ecuador",
+          "goals": 1,
+          "current": true
+        }
+      ]
+    },
+    {
       "club": "Celtic",
       "nation": "Scotland",
       "league": "Scottish Premiership",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/1/1f/Celtic_FC_crest.svg",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/3/35/Celtic_FC.svg",
       "goals": 4,
       "players": [
         {
@@ -1142,60 +1316,6 @@
       ]
     },
     {
-      "club": "Bayer Leverkusen",
-      "nation": "Germany",
-      "league": "Bundesliga",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/5/59/Bayer_04_Leverkusen_logo.svg",
-      "goals": 4,
-      "players": [
-        {
-          "name": "Granit Xhaka",
-          "nat": "Switzerland",
-          "goals": 1,
-          "current": true
-        },
-        {
-          "name": "Kai Havertz",
-          "nat": "Germany",
-          "goals": 2,
-          "current": false
-        },
-        {
-          "name": "Martin Baturina",
-          "nat": "Croatia",
-          "goals": 1,
-          "current": true
-        }
-      ]
-    },
-    {
-      "club": "FC Liefering",
-      "nation": "Austria",
-      "league": "2. Liga",
-      "logo": null,
-      "goals": 4,
-      "players": [
-        {
-          "name": "Ermin Mahmic",
-          "nat": "Bosnia & Herzegovina",
-          "goals": 2,
-          "current": false
-        },
-        {
-          "name": "Romano Schmid",
-          "nat": "Austria",
-          "goals": 1,
-          "current": false
-        },
-        {
-          "name": "Marcel Sabitzer",
-          "nat": "Austria",
-          "goals": 1,
-          "current": false
-        }
-      ]
-    },
-    {
       "club": "CR Flamengo",
       "nation": "Brazil",
       "league": "Brasileirão Série A",
@@ -1207,27 +1327,6 @@
           "nat": "Brazil",
           "goals": 4,
           "current": false
-        }
-      ]
-    },
-    {
-      "club": "NEC Nijmegen",
-      "nation": "Netherlands",
-      "league": "Eredivisie",
-      "logo": null,
-      "goals": 4,
-      "players": [
-        {
-          "name": "Ismael Saibari",
-          "nat": "Morocco",
-          "goals": 3,
-          "current": false
-        },
-        {
-          "name": "Livano Comenencia",
-          "nat": "Curaçao",
-          "goals": 1,
-          "current": true
         }
       ]
     },
@@ -1253,69 +1352,75 @@
       ]
     },
     {
-      "club": "Lorient",
+      "club": "Reims",
       "nation": "France",
       "league": "Ligue 1",
-      "logo": null,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/3/34/Stade_de_Reims_logo.svg",
       "goals": 4,
       "players": [
         {
-          "name": "Wilson Isidor",
-          "nat": "Haiti",
-          "goals": 1,
-          "current": false
-        },
-        {
-          "name": "Yoane Wissa",
-          "nat": "DR Congo",
-          "goals": 3,
-          "current": false
-        }
-      ]
-    },
-    {
-      "club": "VfB Stuttgart",
-      "nation": "Germany",
-      "league": "Bundesliga",
-      "logo": null,
-      "goals": 4,
-      "players": [
-        {
-          "name": "Deniz Undav",
-          "nat": "Germany",
-          "goals": 3,
-          "current": true
-        },
-        {
-          "name": "Sasa Kalajdzic",
-          "nat": "Austria",
-          "goals": 1,
-          "current": false
-        }
-      ]
-    },
-    {
-      "club": "Liverpool",
-      "nation": "England",
-      "league": "Premier League",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg",
-      "goals": 4,
-      "players": [
-        {
-          "name": "Virgil van Dijk",
-          "nat": "Netherlands",
-          "goals": 1,
-          "current": true
-        },
-        {
-          "name": "Cody Gakpo",
-          "nat": "Netherlands",
+          "name": "Folarin Balogun",
+          "nat": "USA",
           "goals": 2,
+          "current": false
+        },
+        {
+          "name": "Keito Nakamura",
+          "nat": "Japan",
+          "goals": 1,
           "current": true
         },
         {
-          "name": "Luis Díaz",
-          "nat": "Colombia",
+          "name": "Junya Ito",
+          "nat": "Japan",
+          "goals": 1,
+          "current": true
+        }
+      ]
+    },
+    {
+      "club": "Westerlo",
+      "nation": "Belgium",
+      "league": "Belgian First Division A",
+      "logo": null,
+      "goals": 4,
+      "players": [
+        {
+          "name": "Omar Rekik",
+          "nat": "Tunisia",
+          "goals": 1,
+          "current": false
+        },
+        {
+          "name": "Leandro Trossard",
+          "nat": "Belgium",
+          "goals": 2,
+          "current": false
+        },
+        {
+          "name": "Derrick Luckassen",
+          "nat": "Ghana",
+          "goals": 1,
+          "current": false
+        }
+      ]
+    },
+    {
+      "club": "Auckland City FC",
+      "nation": "New Zealand",
+      "league": "National League",
+      "logo": null,
+      "goals": 4,
+      "players": [
+        {
+          "name": "Elijah Just",
+          "nat": "New Zealand",
+          "goals": 3,
+          "current": false
+        },
+        {
+          "name": "Finn Surman",
+          "nat": "New Zealand",
           "goals": 1,
           "current": true
         }
@@ -1355,39 +1460,6 @@
       ]
     },
     {
-      "club": "Anderlecht",
-      "nation": "Belgium",
-      "league": "Belgian First Division A",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/3/35/R.S.C._Anderlecht_logo.svg",
-      "goals": 4,
-      "players": [
-        {
-          "name": "Trézéguet",
-          "nat": "Egypt",
-          "goals": 1,
-          "current": true
-        },
-        {
-          "name": "Romelu Lukaku",
-          "nat": "Belgium",
-          "goals": 1,
-          "current": false
-        },
-        {
-          "name": "Alexis Saelemaekers",
-          "nat": "Belgium",
-          "goals": 1,
-          "current": false
-        },
-        {
-          "name": "Derrick Luckassen",
-          "nat": "Ghana",
-          "goals": 1,
-          "current": false
-        }
-      ]
-    },
-    {
       "club": "Werder Bremen",
       "nation": "Germany",
       "league": "Bundesliga",
@@ -1411,39 +1483,6 @@
           "nat": "Austria",
           "goals": 2,
           "current": false
-        }
-      ]
-    },
-    {
-      "club": "Villarreal",
-      "nation": "Spain",
-      "league": "La Liga",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/b/b9/Villarreal_CF_logo.svg",
-      "goals": 4,
-      "players": [
-        {
-          "name": "Agustín Cano",
-          "nat": "Uruguay",
-          "goals": 1,
-          "current": true
-        },
-        {
-          "name": "Álex Baena",
-          "nat": "Spain",
-          "goals": 1,
-          "current": false
-        },
-        {
-          "name": "Álex Baena",
-          "nat": "Spain",
-          "goals": 1,
-          "current": true
-        },
-        {
-          "name": "Giovani Lo Celso",
-          "nat": "Argentina",
-          "goals": 1,
-          "current": true
         }
       ]
     },
@@ -1479,7 +1518,7 @@
           "name": "Ibrahim Mbaye",
           "nat": "Senegal",
           "goals": 1,
-          "current": true
+          "current": false
         },
         {
           "name": "Ismaïla Sarr",
@@ -1508,7 +1547,7 @@
       "club": "Molde FK",
       "nation": "Norway",
       "league": "Eliteserien",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Molde_FK.svg",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/e/e9/Molde_FK.svg",
       "goals": 4,
       "players": [
         {
@@ -1536,6 +1575,27 @@
           "name": "Amine Gouiri",
           "nat": "Algeria",
           "goals": 1,
+          "current": true
+        }
+      ]
+    },
+    {
+      "club": "Lorient",
+      "nation": "France",
+      "league": "Ligue 1",
+      "logo": null,
+      "goals": 4,
+      "players": [
+        {
+          "name": "Nadhir Benbouali",
+          "nat": "Algeria",
+          "goals": 1,
+          "current": false
+        },
+        {
+          "name": "Yoane Wissa",
+          "nat": "DR Congo",
+          "goals": 3,
           "current": false
         }
       ]
@@ -1583,64 +1643,10 @@
       ]
     },
     {
-      "club": "Benfica",
-      "nation": "Portugal",
-      "league": "Primeira Liga",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/f/f8/SL_Benfica_logo.svg",
-      "goals": 3,
-      "players": [
-        {
-          "name": "Raúl Jiménez",
-          "nat": "Mexico",
-          "goals": 1,
-          "current": false
-        },
-        {
-          "name": "João Neves",
-          "nat": "Portugal",
-          "goals": 1,
-          "current": false
-        },
-        {
-          "name": "Petar Musa",
-          "nat": "Croatia",
-          "goals": 1,
-          "current": false
-        }
-      ]
-    },
-    {
-      "club": "Vancouver Whitecaps",
-      "nation": "Canada",
-      "league": "MLS",
-      "logo": null,
-      "goals": 3,
-      "players": [
-        {
-          "name": "Hwang In-Beom",
-          "nat": "South Korea",
-          "goals": 1,
-          "current": false
-        },
-        {
-          "name": "Promise David",
-          "nat": "Canada",
-          "goals": 1,
-          "current": true
-        },
-        {
-          "name": "Sebastian Berhalter",
-          "nat": "USA",
-          "goals": 1,
-          "current": true
-        }
-      ]
-    },
-    {
       "club": "Bologna FC",
       "nation": "Italy",
       "league": "Serie A",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/0/05/Bologna_FC_1909_logo.svg",
+      "logo": null,
       "goals": 3,
       "players": [
         {
@@ -1658,21 +1664,21 @@
       ]
     },
     {
-      "club": "FC Twente",
-      "nation": "Netherlands",
-      "league": "Eredivisie",
+      "club": "Orlando City SC",
+      "nation": "USA",
+      "league": "MLS",
       "logo": null,
       "goals": 3,
       "players": [
         {
-          "name": "Michal Sadílek",
-          "nat": "Czech Republic",
+          "name": "Álvaro Fidalgo",
+          "nat": "Mexico",
           "goals": 1,
           "current": true
         },
         {
-          "name": "Marko Arnautovic",
-          "nat": "Austria",
+          "name": "Cyle Larin",
+          "nat": "Canada",
           "goals": 2,
           "current": false
         }
@@ -1700,55 +1706,37 @@
       ]
     },
     {
-      "club": "FK Velež Mostar",
-      "nation": "Bosnia & Herzegovina",
-      "league": "Premier League of Bosnia and Herzegovina",
+      "club": "FC Sion",
+      "nation": "Switzerland",
+      "league": "Swiss Super League",
       "logo": null,
       "goals": 3,
       "players": [
         {
-          "name": "Jovo Lukić",
-          "nat": "Bosnia & Herzegovina",
-          "goals": 1,
-          "current": true
-        },
-        {
-          "name": "Ermin Mahmic",
-          "nat": "Bosnia & Herzegovina",
-          "goals": 2,
-          "current": true
-        }
-      ]
-    },
-    {
-      "club": "Schalke 04",
-      "nation": "Germany",
-      "league": "Bundesliga",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6d/FC_Schalke_04_Logo.svg",
-      "goals": 3,
-      "players": [
-        {
-          "name": "Breel Embolo",
+          "name": "Johan Manzambi",
           "nat": "Switzerland",
-          "goals": 1,
-          "current": false
-        },
-        {
-          "name": "Kaan Ayhan",
-          "nat": "Turkey",
-          "goals": 1,
-          "current": false
-        },
-        {
-          "name": "Leroy Sané",
-          "nat": "Germany",
-          "goals": 1,
+          "goals": 3,
           "current": false
         }
       ]
     },
     {
       "club": "FC Lausanne-Sport",
+      "nation": "Switzerland",
+      "league": "Swiss Super League",
+      "logo": null,
+      "goals": 3,
+      "players": [
+        {
+          "name": "Johan Manzambi",
+          "nat": "Switzerland",
+          "goals": 3,
+          "current": false
+        }
+      ]
+    },
+    {
+      "club": "Servette FC",
       "nation": "Switzerland",
       "league": "Swiss Super League",
       "logo": null,
@@ -1766,14 +1754,14 @@
       "club": "FC Augsburg",
       "nation": "Germany",
       "league": "Bundesliga",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/1/10/FC_Augsburg_logo.svg",
+      "logo": null,
       "goals": 3,
       "players": [
         {
           "name": "Rubén Vargas",
           "nat": "Switzerland",
           "goals": 2,
-          "current": true
+          "current": false
         },
         {
           "name": "Caleb Yirenkyi",
@@ -1800,14 +1788,14 @@
           "name": "Kerim Alajbegovic",
           "nat": "Bosnia & Herzegovina",
           "goals": 1,
-          "current": true
+          "current": false
         }
       ]
     },
     {
       "club": "KAA Gent",
       "nation": "Belgium",
-      "league": "First Division A",
+      "league": "Belgian First Division A",
       "logo": "https://upload.wikimedia.org/wikipedia/en/b/b8/KAA_Gent_logo.svg",
       "goals": 3,
       "players": [
@@ -1820,15 +1808,30 @@
       ]
     },
     {
-      "club": "Lille OSC",
-      "nation": "France",
-      "league": "Ligue 1",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/3/38/Olympique_Lille_logo.svg",
+      "club": "Internazionale",
+      "nation": "Italy",
+      "league": "Serie A",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/0/05/FC_Internazionale_Milano_2021.svg",
       "goals": 3,
       "players": [
         {
           "name": "Jonathan David",
           "nat": "Canada",
+          "goals": 3,
+          "current": true
+        }
+      ]
+    },
+    {
+      "club": "Jong PSV",
+      "nation": "Netherlands",
+      "league": "Eerste Divisie",
+      "logo": null,
+      "goals": 3,
+      "players": [
+        {
+          "name": "Ismael Saibari",
+          "nat": "Morocco",
           "goals": 3,
           "current": false
         }
@@ -1857,14 +1860,14 @@
           "name": "Marcus Rashford",
           "nat": "England",
           "goals": 1,
-          "current": false
+          "current": true
         }
       ]
     },
     {
       "club": "Coritiba",
       "nation": "Brazil",
-      "league": "Brasileirão",
+      "league": "Brasileirão Série A",
       "logo": null,
       "goals": 3,
       "players": [
@@ -1872,42 +1875,6 @@
           "name": "Matheus Cunha",
           "nat": "Brazil",
           "goals": 3,
-          "current": false
-        }
-      ]
-    },
-    {
-      "club": "Sion",
-      "nation": "Switzerland",
-      "league": "Super League",
-      "logo": null,
-      "goals": 3,
-      "players": [
-        {
-          "name": "Matheus Cunha",
-          "nat": "Brazil",
-          "goals": 3,
-          "current": false
-        }
-      ]
-    },
-    {
-      "club": "Reims",
-      "nation": "France",
-      "league": "Ligue 1",
-      "logo": null,
-      "goals": 3,
-      "players": [
-        {
-          "name": "Folarin Balogun",
-          "nat": "USA",
-          "goals": 2,
-          "current": false
-        },
-        {
-          "name": "Keito Nakamura",
-          "nat": "Japan",
-          "goals": 1,
           "current": false
         }
       ]
@@ -1936,33 +1903,6 @@
           "nat": "Uzbekistan",
           "goals": 1,
           "current": false
-        }
-      ]
-    },
-    {
-      "club": "Galatasaray",
-      "nation": "Turkey",
-      "league": "Süper Lig",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/4/44/Galatasaray.svg",
-      "goals": 3,
-      "players": [
-        {
-          "name": "Baris Alper Yilmaz",
-          "nat": "Turkey",
-          "goals": 1,
-          "current": false
-        },
-        {
-          "name": "Baris Alper Yilmaz",
-          "nat": "Turkey",
-          "goals": 1,
-          "current": true
-        },
-        {
-          "name": "Kaan Ayhan",
-          "nat": "Turkey",
-          "goals": 1,
-          "current": true
         }
       ]
     },
@@ -2015,21 +1955,6 @@
       ]
     },
     {
-      "club": "Union SG",
-      "nation": "Belgium",
-      "league": "First Division A",
-      "logo": null,
-      "goals": 3,
-      "players": [
-        {
-          "name": "Deniz Undav",
-          "nat": "Germany",
-          "goals": 3,
-          "current": false
-        }
-      ]
-    },
-    {
       "club": "Royale Union Saint-Gilloise",
       "nation": "Belgium",
       "league": "First Division A",
@@ -2060,9 +1985,9 @@
       ]
     },
     {
-      "club": "TSV Havelse",
+      "club": "SpVgg Unterhaching",
       "nation": "Germany",
-      "league": "Regionalliga Nord",
+      "league": "3. Liga",
       "logo": null,
       "goals": 3,
       "players": [
@@ -2090,10 +2015,25 @@
       ]
     },
     {
-      "club": "Atalanta",
-      "nation": "Italy",
-      "league": "Serie A",
-      "logo": "https://upload.wikimedia.org/wikipedia/de/0/04/Bergamo_Calcio_Atalanta_crest.svg",
+      "club": "TSV Havelse",
+      "nation": "Germany",
+      "league": "Regionalliga",
+      "logo": null,
+      "goals": 3,
+      "players": [
+        {
+          "name": "Deniz Undav",
+          "nat": "Germany",
+          "goals": 3,
+          "current": false
+        }
+      ]
+    },
+    {
+      "club": "Sunderland",
+      "nation": "England",
+      "league": "Championship",
+      "logo": null,
       "goals": 3,
       "players": [
         {
@@ -2103,16 +2043,10 @@
           "current": false
         },
         {
-          "name": "Franck Kessié",
-          "nat": "Ivory Coast",
-          "goals": 1,
+          "name": "Yasin Ayari",
+          "nat": "Sweden",
+          "goals": 2,
           "current": false
-        },
-        {
-          "name": "Amine Gouiri",
-          "nat": "Algeria",
-          "goals": 1,
-          "current": true
         }
       ]
     },
@@ -2165,48 +2099,21 @@
       ]
     },
     {
-      "club": "RC Lens",
-      "nation": "France",
-      "league": "Ligue 1",
-      "logo": null,
+      "club": "Leeds United",
+      "nation": "England",
+      "league": "EFL Championship",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/5/54/Leeds_United_F.C._logo.svg",
       "goals": 3,
       "players": [
         {
-          "name": "Nicolas Pépé",
-          "nat": "Ivory Coast",
+          "name": "Crysencio Summerville",
+          "nat": "Netherlands",
           "goals": 2,
-          "current": true
+          "current": false
         },
         {
-          "name": "Leo Østigard",
+          "name": "Thelo Aasgaard",
           "nat": "Norway",
-          "goals": 1,
-          "current": true
-        }
-      ]
-    },
-    {
-      "club": "Al-Qadsiah",
-      "nation": "Saudi Arabia",
-      "league": "Saudi Pro League",
-      "logo": null,
-      "goals": 3,
-      "players": [
-        {
-          "name": "Gonzalo Plata",
-          "nat": "Ecuador",
-          "goals": 1,
-          "current": true
-        },
-        {
-          "name": "Nadhir Benbouali",
-          "nat": "Algeria",
-          "goals": 1,
-          "current": true
-        },
-        {
-          "name": "Petar Musa",
-          "nat": "Croatia",
           "goals": 1,
           "current": true
         }
@@ -2229,7 +2136,7 @@
           "name": "Sasa Kalajdzic",
           "nat": "Austria",
           "goals": 1,
-          "current": true
+          "current": false
         }
       ]
     },
@@ -2249,6 +2156,27 @@
         {
           "name": "Alexander Isak",
           "nat": "Sweden",
+          "goals": 1,
+          "current": false
+        }
+      ]
+    },
+    {
+      "club": "Blackburn Rovers",
+      "nation": "England",
+      "league": "EFL Championship",
+      "logo": null,
+      "goals": 3,
+      "players": [
+        {
+          "name": "Yasin Ayari",
+          "nat": "Sweden",
+          "goals": 2,
+          "current": false
+        },
+        {
+          "name": "Jan Paul van Hecke",
+          "nat": "Netherlands",
           "goals": 1,
           "current": false
         }
@@ -2303,56 +2231,32 @@
       ]
     },
     {
-      "club": "Zamalek SC",
-      "nation": "Egypt",
-      "league": "Egyptian Premier League",
+      "club": "Ajax (Youth)",
+      "nation": "Netherlands",
+      "league": "Youth",
       "logo": null,
       "goals": 3,
       "players": [
         {
-          "name": "Emam Ashour",
-          "nat": "Egypt",
-          "goals": 1,
+          "name": "Brian Brobbey",
+          "nat": "Netherlands",
+          "goals": 3,
           "current": false
-        },
-        {
-          "name": "Mostafa Zico",
-          "nat": "Egypt",
-          "goals": 1,
-          "current": false
-        },
-        {
-          "name": "Mahmoud Saber",
-          "nat": "Egypt",
-          "goals": 1,
-          "current": true
         }
       ]
     },
     {
-      "club": "Pyramids FC",
-      "nation": "Egypt",
-      "league": "Egyptian Premier League",
-      "logo": null,
+      "club": "Ajax (loan from RB Leipzig)",
+      "nation": "Netherlands",
+      "league": "Eredivisie",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/7/79/Ajax_Amsterdam.svg",
       "goals": 3,
       "players": [
         {
-          "name": "Emam Ashour",
-          "nat": "Egypt",
-          "goals": 1,
+          "name": "Brian Brobbey",
+          "nat": "Netherlands",
+          "goals": 3,
           "current": false
-        },
-        {
-          "name": "Mostafa Zico",
-          "nat": "Egypt",
-          "goals": 1,
-          "current": true
-        },
-        {
-          "name": "Fiston Mayele",
-          "nat": "DR Congo",
-          "goals": 1,
-          "current": true
         }
       ]
     },
@@ -2367,7 +2271,7 @@
           "name": "Emam Ashour",
           "nat": "Egypt",
           "goals": 1,
-          "current": true
+          "current": false
         },
         {
           "name": "Mostafa Zico",
@@ -2384,7 +2288,7 @@
       ]
     },
     {
-      "club": "Esteghlal FC",
+      "club": "Sepahan",
       "nation": "Iran",
       "league": "Persian Gulf Pro League",
       "logo": null,
@@ -2400,7 +2304,7 @@
           "name": "Mohammad Mohebbi",
           "nat": "Iran",
           "goals": 1,
-          "current": false
+          "current": true
         }
       ]
     },
@@ -2415,41 +2319,20 @@
           "name": "Ramin Rezaeian",
           "nat": "Iran",
           "goals": 2,
-          "current": false
-        },
-        {
-          "name": "Mohammad Mohebbi",
-          "nat": "Iran",
-          "goals": 1,
-          "current": false
-        }
-      ]
-    },
-    {
-      "club": "Sepahan FC",
-      "nation": "Iran",
-      "league": "Persian Gulf Pro League",
-      "logo": null,
-      "goals": 3,
-      "players": [
-        {
-          "name": "Ramin Rezaeian",
-          "nat": "Iran",
-          "goals": 2,
-          "current": false
-        },
-        {
-          "name": "Mohammad Mohebbi",
-          "nat": "Iran",
-          "goals": 1,
           "current": true
+        },
+        {
+          "name": "Mohammad Mohebbi",
+          "nat": "Iran",
+          "goals": 1,
+          "current": false
         }
       ]
     },
     {
-      "club": "FC Aarau",
-      "nation": "Switzerland",
-      "league": "Swiss Challenge League",
+      "club": "Western Springs AFC",
+      "nation": "New Zealand",
+      "league": "National League",
       "logo": null,
       "goals": 3,
       "players": [
@@ -2462,9 +2345,9 @@
       ]
     },
     {
-      "club": "FC Thun",
-      "nation": "Switzerland",
-      "league": "Swiss Challenge League",
+      "club": "Atletico Ottawa",
+      "nation": "Canada",
+      "league": "Canadian Premier League",
       "logo": null,
       "goals": 3,
       "players": [
@@ -2477,9 +2360,9 @@
       ]
     },
     {
-      "club": "Grasshopper Club Zürich",
-      "nation": "Switzerland",
-      "league": "Swiss Super League",
+      "club": "Hammarby IF",
+      "nation": "Sweden",
+      "league": "Allsvenskan",
       "logo": null,
       "goals": 3,
       "players": [
@@ -2492,9 +2375,9 @@
       ]
     },
     {
-      "club": "Trabzonspor",
-      "nation": "Turkey",
-      "league": "Süper Lig",
+      "club": "Panathinaikos",
+      "nation": "Greece",
+      "league": "Super League Greece",
       "logo": null,
       "goals": 3,
       "players": [
@@ -2505,30 +2388,9 @@
           "current": false
         },
         {
-          "name": "Pape Gueye",
-          "nat": "Senegal",
+          "name": "Marko Arnautovic",
+          "nat": "Austria",
           "goals": 2,
-          "current": true
-        }
-      ]
-    },
-    {
-      "club": "Westerlo",
-      "nation": "Belgium",
-      "league": "Belgian First Division A",
-      "logo": null,
-      "goals": 3,
-      "players": [
-        {
-          "name": "Leandro Trossard",
-          "nat": "Belgium",
-          "goals": 2,
-          "current": false
-        },
-        {
-          "name": "Derrick Luckassen",
-          "nat": "Ghana",
-          "goals": 1,
           "current": true
         }
       ]
@@ -2537,7 +2399,7 @@
       "club": "Napoli",
       "nation": "Italy",
       "league": "Serie A",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2d/S.S.C._Napoli_badge.svg",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Napoli_FC_2024.svg",
       "goals": 3,
       "players": [
         {
@@ -2588,6 +2450,27 @@
       ]
     },
     {
+      "club": "Juventus",
+      "nation": "Italy",
+      "league": "Serie A",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/1/15/Juventus_FC_2017_icon_%28black%29.svg",
+      "goals": 3,
+      "players": [
+        {
+          "name": "Romelu Lukaku",
+          "nat": "Belgium",
+          "goals": 1,
+          "current": false
+        },
+        {
+          "name": "Cristiano Ronaldo",
+          "nat": "Portugal",
+          "goals": 2,
+          "current": false
+        }
+      ]
+    },
+    {
       "club": "Stoke City",
       "nation": "England",
       "league": "Championship",
@@ -2599,6 +2482,27 @@
           "nat": "Norway",
           "goals": 1,
           "current": false
+        },
+        {
+          "name": "Marko Arnautovic",
+          "nat": "Austria",
+          "goals": 2,
+          "current": false
+        }
+      ]
+    },
+    {
+      "club": "FC Twente",
+      "nation": "Netherlands",
+      "league": "Eredivisie",
+      "logo": null,
+      "goals": 3,
+      "players": [
+        {
+          "name": "Marcus Holmgren Pedersen",
+          "nat": "Norway",
+          "goals": 1,
+          "current": true
         },
         {
           "name": "Marko Arnautovic",
@@ -2631,21 +2535,6 @@
     },
     {
       "club": "Niort",
-      "nation": "France",
-      "league": "Ligue 2",
-      "logo": null,
-      "goals": 3,
-      "players": [
-        {
-          "name": "Yoane Wissa",
-          "nat": "DR Congo",
-          "goals": 3,
-          "current": false
-        }
-      ]
-    },
-    {
-      "club": "Laval",
       "nation": "France",
       "league": "Ligue 2",
       "logo": null,
@@ -2737,7 +2626,7 @@
     {
       "club": "Dinamo Zagreb",
       "nation": "Croatia",
-      "league": "Hrvatska SuperSport HNL",
+      "league": "HNL",
       "logo": null,
       "goals": 3,
       "players": [
@@ -2762,9 +2651,9 @@
       ]
     },
     {
-      "club": "Deportivo Cali (youth)",
+      "club": "Deportivo Rionegro",
       "nation": "Colombia",
-      "league": "Youth",
+      "league": "Colombian Football Federation",
       "logo": null,
       "goals": 2,
       "players": [
@@ -2777,9 +2666,9 @@
       ]
     },
     {
-      "club": "Atletico Junior",
+      "club": "América de Cali",
       "nation": "Colombia",
-      "league": "Liga BetPlay",
+      "league": "Categoría Primera A",
       "logo": null,
       "goals": 2,
       "players": [
@@ -2792,36 +2681,63 @@
       ]
     },
     {
-      "club": "Deportivo Pasto",
-      "nation": "Colombia",
-      "league": "Liga BetPlay",
-      "logo": null,
+      "club": "Benfica",
+      "nation": "Portugal",
+      "league": "Primeira Liga",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/a/a2/SL_Benfica_logo.svg",
       "goals": 2,
       "players": [
         {
-          "name": "Julián Quiñones",
+          "name": "Raúl Jiménez",
           "nat": "Mexico",
-          "goals": 2,
-          "current": false
-        }
-      ]
-    },
-    {
-      "club": "Getafe CF",
-      "nation": "Spain",
-      "league": "La Liga",
-      "logo": null,
-      "goals": 2,
-      "players": [
-        {
-          "name": "Oh Hyeon-Gyu",
-          "nat": "South Korea",
           "goals": 1,
-          "current": true
+          "current": false
         },
         {
-          "name": "Junya Ito",
-          "nat": "Japan",
+          "name": "João Neves",
+          "nat": "Portugal",
+          "goals": 1,
+          "current": false
+        }
+      ]
+    },
+    {
+      "club": "Vancouver Whitecaps",
+      "nation": "Canada",
+      "league": "MLS",
+      "logo": null,
+      "goals": 2,
+      "players": [
+        {
+          "name": "Hwang In-Beom",
+          "nat": "South Korea",
+          "goals": 1,
+          "current": false
+        },
+        {
+          "name": "Sebastian Berhalter",
+          "nat": "USA",
+          "goals": 1,
+          "current": true
+        }
+      ]
+    },
+    {
+      "club": "FC Utrecht",
+      "nation": "Netherlands",
+      "league": "Eredivisie",
+      "logo": null,
+      "goals": 2,
+      "players": [
+        {
+          "name": "Michal Sadílek",
+          "nat": "Czech Republic",
+          "goals": 1,
+          "current": false
+        },
+        {
+          "name": "Derrick Luckassen",
+          "nat": "Ghana",
           "goals": 1,
           "current": false
         }
@@ -2830,7 +2746,7 @@
     {
       "club": "Mamelodi Sundowns",
       "nation": "South Africa",
-      "league": "DStv Premiership",
+      "league": "Premier Soccer League",
       "logo": null,
       "goals": 2,
       "players": [
@@ -2849,23 +2765,17 @@
       ]
     },
     {
-      "club": "Cruz Azul",
-      "nation": "Mexico",
-      "league": "Liga MX",
+      "club": "Beşiktaş JK",
+      "nation": "Turkey",
+      "league": "Süper Lig",
       "logo": null,
       "goals": 2,
       "players": [
         {
-          "name": "Luis Romo",
-          "nat": "Mexico",
-          "goals": 1,
+          "name": "Cyle Larin",
+          "nat": "Canada",
+          "goals": 2,
           "current": false
-        },
-        {
-          "name": "Nilson Angulo",
-          "nat": "Ecuador",
-          "goals": 1,
-          "current": true
         }
       ]
     },
@@ -2880,51 +2790,78 @@
           "name": "Cyle Larin",
           "nat": "Canada",
           "goals": 2,
+          "current": false
+        }
+      ]
+    },
+    {
+      "club": "FC Cologne",
+      "nation": "Germany",
+      "league": "2. Bundesliga",
+      "logo": null,
+      "goals": 2,
+      "players": [
+        {
+          "name": "Cyle Larin",
+          "nat": "Canada",
+          "goals": 2,
+          "current": false
+        }
+      ]
+    },
+    {
+      "club": "1. FC Köln",
+      "nation": "Germany",
+      "league": "Bundesliga",
+      "logo": null,
+      "goals": 2,
+      "players": [
+        {
+          "name": "Cyle Larin",
+          "nat": "Canada",
+          "goals": 2,
           "current": true
         }
       ]
     },
     {
-      "club": "Orlando City SC",
-      "nation": "USA",
-      "league": "MLS",
+      "club": "FK Željezničar",
+      "nation": "Bosnia & Herzegovina",
+      "league": "Premier League of Bosnia and Herzegovina",
       "logo": null,
       "goals": 2,
       "players": [
         {
-          "name": "Cyle Larin",
-          "nat": "Canada",
-          "goals": 2,
+          "name": "Jovo Lukić",
+          "nat": "Bosnia & Herzegovina",
+          "goals": 1,
           "current": false
-        }
-      ]
-    },
-    {
-      "club": "Beşiktaş JK",
-      "nation": "Turkey",
-      "league": "Süper Lig",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/4/40/Besiktas_JK_logo.svg",
-      "goals": 2,
-      "players": [
+        },
         {
-          "name": "Cyle Larin",
-          "nat": "Canada",
-          "goals": 2,
-          "current": false
+          "name": "Kerim Alajbegovic",
+          "nat": "Bosnia & Herzegovina",
+          "goals": 1,
+          "current": true
         }
       ]
     },
     {
-      "club": "Zulte Waregem",
-      "nation": "Belgium",
-      "league": "First Division A",
+      "club": "FC Basel",
+      "nation": "Switzerland",
+      "league": "Swiss Super League",
       "logo": null,
       "goals": 2,
       "players": [
         {
-          "name": "Cyle Larin",
-          "nat": "Canada",
-          "goals": 2,
+          "name": "Breel Embolo",
+          "nat": "Switzerland",
+          "goals": 1,
+          "current": false
+        },
+        {
+          "name": "Granit Xhaka",
+          "nat": "Switzerland",
+          "goals": 1,
           "current": false
         }
       ]
@@ -2933,7 +2870,7 @@
       "club": "Borussia Mönchengladbach",
       "nation": "Germany",
       "league": "Bundesliga",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/8/81/Borussia_M%C3%B6nchengladbach_logo.svg",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/8/81/Borussia_Monchengladbach_logo.svg",
       "goals": 2,
       "players": [
         {
@@ -2966,32 +2903,17 @@
       ]
     },
     {
-      "club": "FC Admira Wacker Mödling",
-      "nation": "Austria",
-      "league": "Austrian Bundesliga",
+      "club": "Getafe CF",
+      "nation": "Spain",
+      "league": "La Liga",
       "logo": null,
       "goals": 2,
       "players": [
         {
-          "name": "Ermin Mahmic",
-          "nat": "Bosnia & Herzegovina",
+          "name": "Rubén Vargas",
+          "nat": "Switzerland",
           "goals": 2,
-          "current": false
-        }
-      ]
-    },
-    {
-      "club": "Wolfsberger AC",
-      "nation": "Austria",
-      "league": "Austrian Bundesliga",
-      "logo": null,
-      "goals": 2,
-      "players": [
-        {
-          "name": "Ermin Mahmic",
-          "nat": "Bosnia & Herzegovina",
-          "goals": 2,
-          "current": false
+          "current": true
         }
       ]
     },
@@ -3011,30 +2933,60 @@
       ]
     },
     {
-      "club": "Rennes",
-      "nation": "France",
-      "league": "Ligue 1",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/4/4a/Stade_Rennais_FC.svg",
+      "club": "NK Čelik Zenica",
+      "nation": "Bosnia & Herzegovina",
+      "league": "Premier League of Bosnia and Herzegovina",
+      "logo": null,
       "goals": 2,
       "players": [
         {
-          "name": "Wilson Isidor",
-          "nat": "Haiti",
-          "goals": 1,
+          "name": "Ermin Mahmic",
+          "nat": "Bosnia & Herzegovina",
+          "goals": 2,
           "current": false
-        },
+        }
+      ]
+    },
+    {
+      "club": "FK Velež Mostar",
+      "nation": "Bosnia & Herzegovina",
+      "league": "Premier League of Bosnia and Herzegovina",
+      "logo": null,
+      "goals": 2,
+      "players": [
         {
-          "name": "Junya Ito",
-          "nat": "Japan",
-          "goals": 1,
+          "name": "Ermin Mahmic",
+          "nat": "Bosnia & Herzegovina",
+          "goals": 2,
           "current": true
         }
       ]
     },
     {
-      "club": "Caen",
+      "club": "Clermont Foot",
       "nation": "France",
       "league": "Ligue 2",
+      "logo": null,
+      "goals": 2,
+      "players": [
+        {
+          "name": "Nathan Saliba",
+          "nat": "Canada",
+          "goals": 1,
+          "current": true
+        },
+        {
+          "name": "Nadhir Benbouali",
+          "nat": "Algeria",
+          "goals": 1,
+          "current": false
+        }
+      ]
+    },
+    {
+      "club": "RC Strasbourg",
+      "nation": "France",
+      "league": "Ligue 1",
       "logo": null,
       "goals": 2,
       "players": [
@@ -3042,13 +2994,13 @@
           "name": "Wilson Isidor",
           "nat": "Haiti",
           "goals": 1,
-          "current": false
+          "current": true
         },
         {
-          "name": "Omar Rekik",
-          "nat": "Tunisia",
+          "name": "Habib Diarra",
+          "nat": "Senegal",
           "goals": 1,
-          "current": false
+          "current": true
         }
       ]
     },
@@ -3056,7 +3008,22 @@
       "club": "Middlesbrough",
       "nation": "England",
       "league": "Championship",
-      "logo": null,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/2/2c/Middlesbrough_FC_crest.svg",
+      "goals": 2,
+      "players": [
+        {
+          "name": "Folarin Balogun",
+          "nat": "USA",
+          "goals": 2,
+          "current": false
+        }
+      ]
+    },
+    {
+      "club": "Monaco",
+      "nation": "France",
+      "league": "Ligue 1",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/b/ba/AS_Monaco_FC.svg",
       "goals": 2,
       "players": [
         {
@@ -3110,10 +3077,31 @@
       ]
     },
     {
-      "club": "Kasımpaşa",
+      "club": "Venezia",
+      "nation": "Italy",
+      "league": "Serie A",
+      "logo": null,
+      "goals": 2,
+      "players": [
+        {
+          "name": "Matías Galarza",
+          "nat": "Paraguay",
+          "goals": 1,
+          "current": true
+        },
+        {
+          "name": "Marcus Holmgren Pedersen",
+          "nat": "Norway",
+          "goals": 1,
+          "current": false
+        }
+      ]
+    },
+    {
+      "club": "Galatasaray",
       "nation": "Turkey",
       "league": "Süper Lig",
-      "logo": null,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/4/44/Galatasaray.svg",
       "goals": 2,
       "players": [
         {
@@ -3123,8 +3111,50 @@
           "current": false
         },
         {
-          "name": "Derrick Luckassen",
-          "nat": "Ghana",
+          "name": "Kaan Ayhan",
+          "nat": "Turkey",
+          "goals": 1,
+          "current": true
+        }
+      ]
+    },
+    {
+      "club": "Getafe",
+      "nation": "Spain",
+      "league": "La Liga",
+      "logo": null,
+      "goals": 2,
+      "players": [
+        {
+          "name": "Baris Alper Yilmaz",
+          "nat": "Turkey",
+          "goals": 1,
+          "current": true
+        },
+        {
+          "name": "Álex Baena",
+          "nat": "Spain",
+          "goals": 1,
+          "current": false
+        }
+      ]
+    },
+    {
+      "club": "Schalke 04",
+      "nation": "Germany",
+      "league": "Bundesliga / 2. Bundesliga",
+      "logo": null,
+      "goals": 2,
+      "players": [
+        {
+          "name": "Kaan Ayhan",
+          "nat": "Turkey",
+          "goals": 1,
+          "current": false
+        },
+        {
+          "name": "Leroy Sané",
+          "nat": "Germany",
           "goals": 1,
           "current": false
         }
@@ -3168,42 +3198,48 @@
           "name": "Thelo Aasgaard",
           "nat": "Norway",
           "goals": 1,
-          "current": true
+          "current": false
         }
       ]
     },
     {
-      "club": "Barcelona",
-      "nation": "Spain",
-      "league": "La Liga",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg",
+      "club": "NEC Nijmegen",
+      "nation": "Netherlands",
+      "league": "Eredivisie",
+      "logo": null,
       "goals": 2,
       "players": [
         {
-          "name": "Franck Kessié",
+          "name": "Livano Comenencia",
+          "nat": "Curaçao",
+          "goals": 1,
+          "current": false
+        },
+        {
+          "name": "Jan Paul van Hecke",
+          "nat": "Netherlands",
+          "goals": 1,
+          "current": false
+        }
+      ]
+    },
+    {
+      "club": "Atalanta",
+      "nation": "Italy",
+      "league": "Serie A",
+      "logo": "https://upload.wikimedia.org/wikipedia/de/0/04/Bergamo_Calcio_Atalanta_crest.svg",
+      "goals": 2,
+      "players": [
+        {
+          "name": "Amad Diallo",
           "nat": "Ivory Coast",
           "goals": 1,
           "current": false
         },
         {
-          "name": "Lamine Yamal",
-          "nat": "Spain",
-          "goals": 1,
-          "current": true
-        }
-      ]
-    },
-    {
-      "club": "LOSC Lille",
-      "nation": "France",
-      "league": "Ligue 1",
-      "logo": null,
-      "goals": 2,
-      "players": [
-        {
-          "name": "Nicolas Pépé",
+          "name": "Franck Kessié",
           "nat": "Ivory Coast",
-          "goals": 2,
+          "goals": 1,
           "current": false
         }
       ]
@@ -3241,7 +3277,7 @@
     {
       "club": "Poiré-sur-Vie",
       "nation": "France",
-      "league": "National 3",
+      "league": "CFA",
       "logo": null,
       "goals": 2,
       "players": [
@@ -3275,81 +3311,9 @@
       ]
     },
     {
-      "club": "Valladolid",
-      "nation": "Spain",
-      "league": "La Liga",
-      "logo": null,
-      "goals": 2,
-      "players": [
-        {
-          "name": "Gonzalo Plata",
-          "nat": "Ecuador",
-          "goals": 1,
-          "current": false
-        },
-        {
-          "name": "Agustín Cano",
-          "nat": "Uruguay",
-          "goals": 1,
-          "current": false
-        }
-      ]
-    },
-    {
-      "club": "Southampton",
-      "nation": "England",
-      "league": "Premier League",
-      "logo": null,
-      "goals": 2,
-      "players": [
-        {
-          "name": "Virgil van Dijk",
-          "nat": "Netherlands",
-          "goals": 1,
-          "current": false
-        },
-        {
-          "name": "Trézéguet",
-          "nat": "Egypt",
-          "goals": 1,
-          "current": false
-        }
-      ]
-    },
-    {
-      "club": "Leeds United",
-      "nation": "England",
-      "league": "Championship",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/5/54/Leeds_United_F.C._logo.svg",
-      "goals": 2,
-      "players": [
-        {
-          "name": "Crysencio Summerville",
-          "nat": "Netherlands",
-          "goals": 2,
-          "current": false
-        }
-      ]
-    },
-    {
       "club": "Sagan Tosu",
       "nation": "Japan",
       "league": "J1 League",
-      "logo": null,
-      "goals": 2,
-      "players": [
-        {
-          "name": "Daichi Kamada",
-          "nat": "Japan",
-          "goals": 2,
-          "current": false
-        }
-      ]
-    },
-    {
-      "club": "VVV-Venlo",
-      "nation": "Netherlands",
-      "league": "Eredivisie",
       "logo": null,
       "goals": 2,
       "players": [
@@ -3380,7 +3344,7 @@
       "club": "Lazio",
       "nation": "Italy",
       "league": "Serie A",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/a/ad/SS_Lazio_Badge.svg",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/a/a4/SS_Lazio_Badge.svg",
       "goals": 2,
       "players": [
         {
@@ -3392,54 +3356,30 @@
       ]
     },
     {
-      "club": "IFK Norrköping",
-      "nation": "Sweden",
-      "league": "Allsvenskan",
+      "club": "Willem II",
+      "nation": "Netherlands",
+      "league": "Eredivisie",
       "logo": null,
       "goals": 2,
       "players": [
         {
-          "name": "Yasin Ayari",
+          "name": "Alexander Isak",
           "nat": "Sweden",
-          "goals": 2,
+          "goals": 1,
           "current": false
-        }
-      ]
-    },
-    {
-      "club": "Blackburn Rovers",
-      "nation": "England",
-      "league": "Championship",
-      "logo": null,
-      "goals": 2,
-      "players": [
+        },
         {
-          "name": "Yasin Ayari",
-          "nat": "Sweden",
-          "goals": 2,
+          "name": "Derrick Luckassen",
+          "nat": "Ghana",
+          "goals": 1,
           "current": false
-        }
-      ]
-    },
-    {
-      "club": "Stuttgart",
-      "nation": "Germany",
-      "league": "Bundesliga",
-      "logo": null,
-      "goals": 2,
-      "players": [
-        {
-          "name": "Yasin Ayari",
-          "nat": "Sweden",
-          "goals": 2,
-          "current": true
         }
       ]
     },
     {
       "club": "Coventry City",
       "nation": "England",
-      "league": "Championship",
+      "league": "EFL Championship",
       "logo": null,
       "goals": 2,
       "players": [
@@ -3458,64 +3398,31 @@
       ]
     },
     {
-      "club": "Sparta Rotterdam",
+      "club": "PSV Eindhoven (Youth)",
       "nation": "Netherlands",
-      "league": "Eredivisie",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/3/37/Sparta_Rotterdam.svg",
-      "goals": 2,
-      "players": [
-        {
-          "name": "Omar Rekik",
-          "nat": "Tunisia",
-          "goals": 1,
-          "current": false
-        },
-        {
-          "name": "Jan Paul van Hecke",
-          "nat": "Netherlands",
-          "goals": 1,
-          "current": false
-        }
-      ]
-    },
-    {
-      "club": "Wigan Athletic",
-      "nation": "England",
-      "league": "EFL Championship",
+      "league": "Youth",
       "logo": null,
       "goals": 2,
       "players": [
         {
-          "name": "Omar Rekik",
-          "nat": "Tunisia",
-          "goals": 1,
-          "current": false
-        },
-        {
-          "name": "Thelo Aasgaard",
-          "nat": "Norway",
-          "goals": 1,
+          "name": "Cody Gakpo",
+          "nat": "Netherlands",
+          "goals": 2,
           "current": false
         }
       ]
     },
     {
-      "club": "Stade de Reims",
-      "nation": "France",
-      "league": "Ligue 1",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/b/b8/Stade_Reims_logo.svg",
+      "club": "Manchester United (Youth)",
+      "nation": "England",
+      "league": "Youth",
+      "logo": null,
       "goals": 2,
       "players": [
         {
-          "name": "Omar Rekik",
-          "nat": "Tunisia",
-          "goals": 1,
-          "current": true
-        },
-        {
-          "name": "Junya Ito",
-          "nat": "Japan",
-          "goals": 1,
+          "name": "Anthony Elanga",
+          "nat": "Sweden",
+          "goals": 2,
           "current": false
         }
       ]
@@ -3536,9 +3443,9 @@
       ]
     },
     {
-      "club": "Cercle Brugge",
+      "club": "Cercle Brugge (loan)",
       "nation": "Belgium",
-      "league": "First Division A",
+      "league": "Belgian First Division A",
       "logo": null,
       "goals": 2,
       "players": [
@@ -3551,30 +3458,87 @@
       ]
     },
     {
-      "club": "Beerschot",
-      "nation": "Belgium",
-      "league": "First Division A",
+      "club": "Zamalek",
+      "nation": "Egypt",
+      "league": "Egyptian Premier League",
       "logo": null,
       "goals": 2,
       "players": [
         {
-          "name": "Jan Paul van Hecke",
-          "nat": "Netherlands",
+          "name": "Hazem Mastouri",
+          "nat": "Tunisia",
+          "goals": 1,
+          "current": true
+        },
+        {
+          "name": "Mahmoud Saber",
+          "nat": "Egypt",
+          "goals": 1,
+          "current": true
+        }
+      ]
+    },
+    {
+      "club": "Zamalek SC",
+      "nation": "Egypt",
+      "league": "Egyptian Premier League",
+      "logo": null,
+      "goals": 2,
+      "players": [
+        {
+          "name": "Emam Ashour",
+          "nat": "Egypt",
           "goals": 1,
           "current": false
         },
         {
-          "name": "Derrick Luckassen",
-          "nat": "Ghana",
+          "name": "Mostafa Zico",
+          "nat": "Egypt",
           "goals": 1,
           "current": false
         }
       ]
     },
     {
-      "club": "Lokeren",
-      "nation": "Belgium",
-      "league": "First Division A",
+      "club": "Pyramids FC",
+      "nation": "Egypt",
+      "league": "Egyptian Premier League",
+      "logo": null,
+      "goals": 2,
+      "players": [
+        {
+          "name": "Emam Ashour",
+          "nat": "Egypt",
+          "goals": 1,
+          "current": true
+        },
+        {
+          "name": "Fiston Mayele",
+          "nat": "DR Congo",
+          "goals": 1,
+          "current": true
+        }
+      ]
+    },
+    {
+      "club": "Tractor SC",
+      "nation": "Iran",
+      "league": "Persian Gulf Pro League",
+      "logo": null,
+      "goals": 2,
+      "players": [
+        {
+          "name": "Ramin Rezaeian",
+          "nat": "Iran",
+          "goals": 2,
+          "current": false
+        }
+      ]
+    },
+    {
+      "club": "Rah Ahan",
+      "nation": "Iran",
+      "league": "Persian Gulf Pro League",
       "logo": null,
       "goals": 2,
       "players": [
@@ -3602,9 +3566,9 @@
       ]
     },
     {
-      "club": "Al-Duhail SC",
-      "nation": "Qatar",
-      "league": "Qatar Stars League",
+      "club": "Ostende",
+      "nation": "Belgium",
+      "league": "First Division A",
       "logo": null,
       "goals": 2,
       "players": [
@@ -3617,9 +3581,9 @@
       ]
     },
     {
-      "club": "Shahr Khodro FC",
-      "nation": "Iran",
-      "league": "Persian Gulf Pro League",
+      "club": "Al-Sailiya",
+      "nation": "Qatar",
+      "league": "Qatar Stars League",
       "logo": null,
       "goals": 2,
       "players": [
@@ -3642,14 +3606,71 @@
           "name": "Ramin Rezaeian",
           "nat": "Iran",
           "goals": 2,
-          "current": true
+          "current": false
+        }
+      ]
+    },
+    {
+      "club": "Zob Ahan",
+      "nation": "Iran",
+      "league": "Persian Gulf Pro League",
+      "logo": null,
+      "goals": 2,
+      "players": [
+        {
+          "name": "Ramin Rezaeian",
+          "nat": "Iran",
+          "goals": 2,
+          "current": false
+        }
+      ]
+    },
+    {
+      "club": "Fiorentina",
+      "nation": "Italy",
+      "league": "Serie A",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/0/0d/ACF_Fiorentina_logo_2022.svg",
+      "goals": 2,
+      "players": [
+        {
+          "name": "Mohamed Salah",
+          "nat": "Egypt",
+          "goals": 1,
+          "current": false
+        },
+        {
+          "name": "Marcus Holmgren Pedersen",
+          "nat": "Norway",
+          "goals": 1,
+          "current": false
+        }
+      ]
+    },
+    {
+      "club": "Caykur Rizespor",
+      "nation": "Turkey",
+      "league": "Süper Lig",
+      "logo": null,
+      "goals": 2,
+      "players": [
+        {
+          "name": "Trézéguet",
+          "nat": "Egypt",
+          "goals": 1,
+          "current": false
+        },
+        {
+          "name": "Derrick Luckassen",
+          "nat": "Ghana",
+          "goals": 1,
+          "current": false
         }
       ]
     },
     {
       "club": "Lommel United",
       "nation": "Belgium",
-      "league": "Belgian First Division B",
+      "league": "First Division B",
       "logo": null,
       "goals": 2,
       "players": [
@@ -3662,9 +3683,9 @@
       ]
     },
     {
-      "club": "OHL (Oud-Heverlee Leuven)",
+      "club": "OHL",
       "nation": "Belgium",
-      "league": "Belgian First Division B",
+      "league": "First Division A",
       "logo": null,
       "goals": 2,
       "players": [
@@ -3677,9 +3698,9 @@
       ]
     },
     {
-      "club": "Estudiantes de La Plata",
-      "nation": "Argentina",
-      "league": "Liga Profesional",
+      "club": "Peñarol",
+      "nation": "Uruguay",
+      "league": "Primera División",
       "logo": null,
       "goals": 2,
       "players": [
@@ -3710,7 +3731,7 @@
       "club": "Atlético de Madrid",
       "nation": "Spain",
       "league": "La Liga",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/f/f4/Atletico_de_madrid_2017_logo.svg",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/f/f4/Atletico_Madrid_2017_logo.svg",
       "goals": 2,
       "players": [
         {
@@ -3722,77 +3743,41 @@
       ]
     },
     {
-      "club": "Real Sociedad B",
+      "club": "Villarreal",
       "nation": "Spain",
-      "league": "Segunda División B",
-      "logo": null,
+      "league": "La Liga",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/b/b9/Villarreal_CF_logo.svg",
       "goals": 2,
       "players": [
         {
-          "name": "Mikel Oyarzabal",
+          "name": "Álex Baena",
           "nat": "Spain",
-          "goals": 2,
-          "current": false
-        }
-      ]
-    },
-    {
-      "club": "Sporting CP B",
-      "nation": "Portugal",
-      "league": "Liga 3",
-      "logo": null,
-      "goals": 2,
-      "players": [
-        {
-          "name": "Kevin Pina",
-          "nat": "Cape Verde",
-          "goals": 1,
-          "current": false
-        },
-        {
-          "name": "Hélio Varela",
-          "nat": "Cape Verde",
-          "goals": 1,
-          "current": false
-        }
-      ]
-    },
-    {
-      "club": "Boavista",
-      "nation": "Portugal",
-      "league": "Primeira Liga",
-      "logo": null,
-      "goals": 2,
-      "players": [
-        {
-          "name": "Kevin Pina",
-          "nat": "Cape Verde",
           "goals": 1,
           "current": true
         },
         {
-          "name": "Petar Musa",
-          "nat": "Croatia",
+          "name": "Giovani Lo Celso",
+          "nat": "Argentina",
           "goals": 1,
-          "current": false
+          "current": true
         }
       ]
     },
     {
-      "club": "Al-Shorta",
-      "nation": "Iraq",
-      "league": "Iraqi Premier League",
-      "logo": null,
+      "club": "Olympique Lyonnais",
+      "nation": "France",
+      "league": "Ligue 1",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/e/e9/Olympique_Lyonnais.svg",
       "goals": 2,
       "players": [
         {
-          "name": "Aymen Hussein",
-          "nat": "Iraq",
+          "name": "Bradley Barcola",
+          "nat": "France",
           "goals": 1,
           "current": false
         },
         {
-          "name": "Rafik Belghali",
+          "name": "Amine Gouiri",
           "nat": "Algeria",
           "goals": 1,
           "current": false
@@ -3830,27 +3815,6 @@
       ]
     },
     {
-      "club": "FC Admira Wacker",
-      "nation": "Austria",
-      "league": "Bundesliga",
-      "logo": null,
-      "goals": 2,
-      "players": [
-        {
-          "name": "Romano Schmid",
-          "nat": "Austria",
-          "goals": 1,
-          "current": false
-        },
-        {
-          "name": "Sasa Kalajdzic",
-          "nat": "Austria",
-          "goals": 1,
-          "current": false
-        }
-      ]
-    },
-    {
       "club": "Shanghai Port",
       "nation": "China",
       "league": "Chinese Super League",
@@ -3861,57 +3825,6 @@
           "name": "Marko Arnautovic",
           "nat": "Austria",
           "goals": 2,
-          "current": false
-        }
-      ]
-    },
-    {
-      "club": "Genoa CFC",
-      "nation": "Italy",
-      "league": "Serie A",
-      "logo": null,
-      "goals": 2,
-      "players": [
-        {
-          "name": "Marko Arnautovic",
-          "nat": "Austria",
-          "goals": 2,
-          "current": false
-        }
-      ]
-    },
-    {
-      "club": "FK Austria Wien",
-      "nation": "Austria",
-      "league": "Bundesliga",
-      "logo": null,
-      "goals": 2,
-      "players": [
-        {
-          "name": "Marko Arnautovic",
-          "nat": "Austria",
-          "goals": 2,
-          "current": true
-        }
-      ]
-    },
-    {
-      "club": "Al-Wehdat",
-      "nation": "Jordan",
-      "league": "Jordan Pro League",
-      "logo": null,
-      "goals": 2,
-      "players": [
-        {
-          "name": "Nizar Al-Rashdan",
-          "nat": "Jordan",
-          "goals": 1,
-          "current": true
-        },
-        {
-          "name": "Mousa Al-Tamari",
-          "nat": "Jordan",
-          "goals": 1,
           "current": false
         }
       ]
@@ -3947,6 +3860,27 @@
       ]
     },
     {
+      "club": "Admira Wacker",
+      "nation": "Austria",
+      "league": "Austrian Bundesliga",
+      "logo": null,
+      "goals": 2,
+      "players": [
+        {
+          "name": "Marcel Sabitzer",
+          "nat": "Austria",
+          "goals": 1,
+          "current": false
+        },
+        {
+          "name": "Sasa Kalajdzic",
+          "nat": "Austria",
+          "goals": 1,
+          "current": false
+        }
+      ]
+    },
+    {
       "club": "CSKA Moscow",
       "nation": "Russia",
       "league": "Russian Premier League",
@@ -3968,7 +3902,7 @@
       ]
     },
     {
-      "club": "Atletico Nacional",
+      "club": "Atlético Nacional",
       "nation": "Colombia",
       "league": "Liga BetPlay",
       "logo": null,
@@ -3983,7 +3917,7 @@
       ]
     },
     {
-      "club": "Deportivo Pereira",
+      "club": "Deportivo Pereira (loan)",
       "nation": "Colombia",
       "league": "Liga BetPlay",
       "logo": null,
@@ -3992,21 +3926,6 @@
         {
           "name": "Daniel Muñoz",
           "nat": "Colombia",
-          "goals": 2,
-          "current": false
-        }
-      ]
-    },
-    {
-      "club": "Juventus",
-      "nation": "Italy",
-      "league": "Serie A",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/1/15/Juventus_FC_2017_logo.svg",
-      "goals": 2,
-      "players": [
-        {
-          "name": "Cristiano Ronaldo",
-          "nat": "Portugal",
           "goals": 2,
           "current": false
         }
@@ -4031,7 +3950,7 @@
       "club": "Torino",
       "nation": "Italy",
       "league": "Serie A",
-      "logo": null,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/61/Torino_FC_Logo.svg",
       "goals": 2,
       "players": [
         {
@@ -4049,9 +3968,30 @@
       ]
     },
     {
+      "club": "Paços de Ferreira",
+      "nation": "Portugal",
+      "league": "Primeira Liga",
+      "logo": null,
+      "goals": 2,
+      "players": [
+        {
+          "name": "Petar Musa",
+          "nat": "Croatia",
+          "goals": 1,
+          "current": false
+        },
+        {
+          "name": "Stephan Eustáquio",
+          "nat": "Canada",
+          "goals": 1,
+          "current": false
+        }
+      ]
+    },
+    {
       "club": "Hajduk Split",
       "nation": "Croatia",
-      "league": "Hrvatska SuperSport HNL",
+      "league": "HNL",
       "logo": null,
       "goals": 2,
       "players": [
@@ -4070,25 +4010,10 @@
       ]
     },
     {
-      "club": "América",
-      "nation": "Mexico",
-      "league": "Liga MX",
-      "logo": null,
-      "goals": 1,
-      "players": [
-        {
-          "name": "Raúl Jiménez",
-          "nat": "Mexico",
-          "goals": 1,
-          "current": false
-        }
-      ]
-    },
-    {
       "club": "Fulham",
       "nation": "England",
       "league": "Premier League",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/e/eb/Fulham_FC_%28shield%29.svg",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/e/eb/Fulham_FC_%282013%29.svg",
       "goals": 1,
       "players": [
         {
@@ -4130,7 +4055,7 @@
       ]
     },
     {
-      "club": "Rubin Kazan",
+      "club": "Spartak Moscow",
       "nation": "Russia",
       "league": "Russian Premier League",
       "logo": null,
@@ -4160,52 +4085,7 @@
       ]
     },
     {
-      "club": "Antwerp",
-      "nation": "Belgium",
-      "league": "First Division A",
-      "logo": null,
-      "goals": 1,
-      "players": [
-        {
-          "name": "Hwang In-Beom",
-          "nat": "South Korea",
-          "goals": 1,
-          "current": false
-        }
-      ]
-    },
-    {
-      "club": "FK Krasnodar",
-      "nation": "Russia",
-      "league": "Russian Premier League",
-      "logo": null,
-      "goals": 1,
-      "players": [
-        {
-          "name": "Hwang In-Beom",
-          "nat": "South Korea",
-          "goals": 1,
-          "current": false
-        }
-      ]
-    },
-    {
-      "club": "Vfl Wolfsburg",
-      "nation": "Germany",
-      "league": "Bundesliga",
-      "logo": null,
-      "goals": 1,
-      "players": [
-        {
-          "name": "Hwang In-Beom",
-          "nat": "South Korea",
-          "goals": 1,
-          "current": false
-        }
-      ]
-    },
-    {
-      "club": "Yokohama F. Marinos",
+      "club": "Urawa Red Diamonds",
       "nation": "Japan",
       "league": "J1 League",
       "logo": null,
@@ -4245,7 +4125,7 @@
           "name": "Oh Hyeon-Gyu",
           "nat": "South Korea",
           "goals": 1,
-          "current": false
+          "current": true
         }
       ]
     },
@@ -4265,7 +4145,7 @@
       ]
     },
     {
-      "club": "FC Zbrojovka Brno",
+      "club": "FC Zlín",
       "nation": "Czech Republic",
       "league": "Czech First League",
       "logo": null,
@@ -4280,7 +4160,7 @@
       ]
     },
     {
-      "club": "FC Twente (loan)",
+      "club": "Twente",
       "nation": "Netherlands",
       "league": "Eredivisie",
       "logo": null,
@@ -4290,29 +4170,14 @@
           "name": "Michal Sadílek",
           "nat": "Czech Republic",
           "goals": 1,
-          "current": false
-        }
-      ]
-    },
-    {
-      "club": "NEC Nijmegen (loan)",
-      "nation": "Netherlands",
-      "league": "Eredivisie",
-      "logo": null,
-      "goals": 1,
-      "players": [
-        {
-          "name": "Michal Sadílek",
-          "nat": "Czech Republic",
-          "goals": 1,
-          "current": false
+          "current": true
         }
       ]
     },
     {
       "club": "SuperSport United",
       "nation": "South Africa",
-      "league": "DStv Premiership",
+      "league": "Premier Soccer League",
       "logo": null,
       "goals": 1,
       "players": [
@@ -4325,7 +4190,7 @@
       ]
     },
     {
-      "club": "Mazatlán FC (loan)",
+      "club": "Cruz Azul",
       "nation": "Mexico",
       "league": "Liga MX",
       "logo": null,
@@ -4355,7 +4220,7 @@
       ]
     },
     {
-      "club": "Real Madrid Castilla",
+      "club": "Atlético de Madrid B",
       "nation": "Spain",
       "league": "Segunda División B",
       "logo": null,
@@ -4370,9 +4235,9 @@
       ]
     },
     {
-      "club": "Deportivo Fabril",
+      "club": "CD Leganés",
       "nation": "Spain",
-      "league": "Segunda División B",
+      "league": "Segunda División",
       "logo": null,
       "goals": 1,
       "players": [
@@ -4385,92 +4250,47 @@
       ]
     },
     {
-      "club": "Deportivo de La Coruña",
-      "nation": "Spain",
-      "league": "Segunda División B",
+      "club": "FK Borac Banja Luka",
+      "nation": "Bosnia & Herzegovina",
+      "league": "Premier League of Bosnia and Herzegovina",
       "logo": null,
       "goals": 1,
       "players": [
         {
-          "name": "Álvaro Fidalgo",
-          "nat": "Mexico",
+          "name": "Jovo Lukić",
+          "nat": "Bosnia & Herzegovina",
           "goals": 1,
           "current": false
         }
       ]
     },
     {
-      "club": "Castellón",
-      "nation": "Spain",
-      "league": "Segunda División B",
+      "club": "HNK Rijeka",
+      "nation": "Croatia",
+      "league": "HNL",
       "logo": null,
       "goals": 1,
       "players": [
         {
-          "name": "Álvaro Fidalgo",
-          "nat": "Mexico",
+          "name": "Jovo Lukić",
+          "nat": "Bosnia & Herzegovina",
           "goals": 1,
-          "current": false
+          "current": true
         }
       ]
     },
     {
-      "club": "Olympiacos",
-      "nation": "Greece",
-      "league": "Super League Greece",
+      "club": "FC Schalke 04",
+      "nation": "Germany",
+      "league": "Bundesliga",
       "logo": null,
-      "goals": 1,
-      "players": [
-        {
-          "name": "Álvaro Fidalgo",
-          "nat": "Mexico",
-          "goals": 1,
-          "current": false
-        }
-      ]
-    },
-    {
-      "club": "AmaZulu FC",
-      "nation": "South Africa",
-      "league": "DStv Premiership",
-      "logo": null,
-      "goals": 1,
-      "players": [
-        {
-          "name": "Thapelo Maseko",
-          "nat": "South Africa",
-          "goals": 1,
-          "current": false
-        }
-      ]
-    },
-    {
-      "club": "Supersport United",
-      "nation": "South Africa",
-      "league": "DStv Premiership",
-      "logo": null,
-      "goals": 1,
-      "players": [
-        {
-          "name": "Thapelo Maseko",
-          "nat": "South Africa",
-          "goals": 1,
-          "current": false
-        }
-      ]
-    },
-    {
-      "club": "AS Monaco",
-      "nation": "France",
-      "league": "Ligue 1",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/e/ea/AS_Monaco_FC.svg",
       "goals": 1,
       "players": [
         {
           "name": "Breel Embolo",
           "nat": "Switzerland",
           "goals": 1,
-          "current": true
+          "current": false
         }
       ]
     },
@@ -4478,19 +4298,34 @@
       "club": "CF Montréal",
       "nation": "Canada",
       "league": "MLS",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/5/54/CF_Montr%C3%A9al_logo.svg",
+      "logo": null,
       "goals": 1,
       "players": [
         {
           "name": "Nathan Saliba",
           "nat": "Canada",
           "goals": 1,
-          "current": true
+          "current": false
         }
       ]
     },
     {
-      "club": "HFX Wanderers FC",
+      "club": "Valenciennes FC",
+      "nation": "France",
+      "league": "Ligue 2",
+      "logo": null,
+      "goals": 1,
+      "players": [
+        {
+          "name": "Nathan Saliba",
+          "nat": "Canada",
+          "goals": 1,
+          "current": false
+        }
+      ]
+    },
+    {
+      "club": "FC Edmonton",
       "nation": "Canada",
       "league": "Canadian Premier League",
       "logo": null,
@@ -4505,17 +4340,17 @@
       ]
     },
     {
-      "club": "FK Željezničar",
-      "nation": "Bosnia & Herzegovina",
-      "league": "Premier League of Bosnia and Herzegovina",
+      "club": "Forge FC",
+      "nation": "Canada",
+      "league": "Canadian Premier League",
       "logo": null,
       "goals": 1,
       "players": [
         {
-          "name": "Kerim Alajbegovic",
-          "nat": "Bosnia & Herzegovina",
+          "name": "Promise David",
+          "nat": "Canada",
           "goals": 1,
-          "current": false
+          "current": true
         }
       ]
     },
@@ -4523,7 +4358,7 @@
       "club": "Al-Sadd SC",
       "nation": "Qatar",
       "league": "Qatar Stars League",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/8/8c/Al-Sadd_SC_Logo.svg",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/8/8c/Al-Sadd_SC.svg",
       "goals": 1,
       "players": [
         {
@@ -4538,7 +4373,7 @@
       "club": "St Mirren",
       "nation": "Scotland",
       "league": "Scottish Premiership",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/8/8d/St_Mirren_FC_logo.svg",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/f/f0/St_Mirren_FC_logo.svg",
       "goals": 1,
       "players": [
         {
@@ -4553,12 +4388,27 @@
       "club": "Hibernian",
       "nation": "Scotland",
       "league": "Scottish Premiership",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/2/27/Hibernian_FC_crest.svg",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/b/b0/Hibernian_FC_crest.svg",
       "goals": 1,
       "players": [
         {
           "name": "John McGinn",
           "nat": "Scotland",
+          "goals": 1,
+          "current": false
+        }
+      ]
+    },
+    {
+      "club": "Wydad AC",
+      "nation": "Morocco",
+      "league": "Botola Pro",
+      "logo": null,
+      "goals": 1,
+      "players": [
+        {
+          "name": "Soufiane Rahimi",
+          "nat": "Morocco",
           "goals": 1,
           "current": false
         }
@@ -4575,42 +4425,12 @@
           "name": "Soufiane Rahimi",
           "nat": "Morocco",
           "goals": 1,
-          "current": true
+          "current": false
         }
       ]
     },
     {
       "club": "Raja Casablanca",
-      "nation": "Morocco",
-      "league": "Botola Pro",
-      "logo": null,
-      "goals": 1,
-      "players": [
-        {
-          "name": "Soufiane Rahimi",
-          "nat": "Morocco",
-          "goals": 1,
-          "current": false
-        }
-      ]
-    },
-    {
-      "club": "Valencia",
-      "nation": "Spain",
-      "league": "La Liga",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/c/ce/Valenciacf.svg",
-      "goals": 1,
-      "players": [
-        {
-          "name": "Soufiane Rahimi",
-          "nat": "Morocco",
-          "goals": 1,
-          "current": false
-        }
-      ]
-    },
-    {
-      "club": "Wydad Casablanca",
       "nation": "Morocco",
       "league": "Botola Pro",
       "logo": null,
@@ -4625,17 +4445,62 @@
       ]
     },
     {
-      "club": "Zenit Saint Petersburg",
-      "nation": "Russia",
-      "league": "Russian Premier League",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/6/67/FC_Zenit_Saint_Petersburg.svg",
+      "club": "Zulte Waregem",
+      "nation": "Belgium",
+      "league": "First Division A",
+      "logo": null,
       "goals": 1,
       "players": [
         {
           "name": "Wilson Isidor",
           "nat": "Haiti",
           "goals": 1,
-          "current": true
+          "current": false
+        }
+      ]
+    },
+    {
+      "club": "Lokomotiv Moscow",
+      "nation": "Russia",
+      "league": "Russian Premier League",
+      "logo": null,
+      "goals": 1,
+      "players": [
+        {
+          "name": "Wilson Isidor",
+          "nat": "Haiti",
+          "goals": 1,
+          "current": false
+        }
+      ]
+    },
+    {
+      "club": "Brest",
+      "nation": "France",
+      "league": "Ligue 1",
+      "logo": null,
+      "goals": 1,
+      "players": [
+        {
+          "name": "Wilson Isidor",
+          "nat": "Haiti",
+          "goals": 1,
+          "current": false
+        }
+      ]
+    },
+    {
+      "club": "Girondins de Bordeaux",
+      "nation": "France",
+      "league": "Ligue 2",
+      "logo": null,
+      "goals": 1,
+      "players": [
+        {
+          "name": "Wilson Isidor",
+          "nat": "Haiti",
+          "goals": 1,
+          "current": false
         }
       ]
     },
@@ -4700,36 +4565,6 @@
       ]
     },
     {
-      "club": "Empoli",
-      "nation": "Italy",
-      "league": "Serie A",
-      "logo": null,
-      "goals": 1,
-      "players": [
-        {
-          "name": "Matías Galarza",
-          "nat": "Paraguay",
-          "goals": 1,
-          "current": true
-        }
-      ]
-    },
-    {
-      "club": "Gençlerbirliği",
-      "nation": "Turkey",
-      "league": "TFF First League",
-      "logo": null,
-      "goals": 1,
-      "players": [
-        {
-          "name": "Arda Güler",
-          "nat": "Turkey",
-          "goals": 1,
-          "current": false
-        }
-      ]
-    },
-    {
       "club": "Fenerbahçe",
       "nation": "Turkey",
       "league": "Süper Lig",
@@ -4760,22 +4595,7 @@
       ]
     },
     {
-      "club": "Fatih Karagümrük",
-      "nation": "Turkey",
-      "league": "Süper Lig",
-      "logo": null,
-      "goals": 1,
-      "players": [
-        {
-          "name": "Baris Alper Yilmaz",
-          "nat": "Turkey",
-          "goals": 1,
-          "current": false
-        }
-      ]
-    },
-    {
-      "club": "Fortuna Düsseldorf",
+      "club": "Düsseldorf",
       "nation": "Germany",
       "league": "2. Bundesliga",
       "logo": null,
@@ -4920,22 +4740,7 @@
           "name": "Livano Comenencia",
           "nat": "Curaçao",
           "goals": 1,
-          "current": false
-        }
-      ]
-    },
-    {
-      "club": "Sunderland",
-      "nation": "England",
-      "league": "Championship",
-      "logo": null,
-      "goals": 1,
-      "players": [
-        {
-          "name": "Amad Diallo",
-          "nat": "Ivory Coast",
-          "goals": 1,
-          "current": false
+          "current": true
         }
       ]
     },
@@ -4985,14 +4790,29 @@
       ]
     },
     {
-      "club": "Seattle Sounders",
-      "nation": "USA",
-      "league": "MLS",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/b/bc/Seattle_Sounders_FC_logo_2016.svg",
+      "club": "Valladolid",
+      "nation": "Spain",
+      "league": "La Liga",
+      "logo": null,
       "goals": 1,
       "players": [
         {
-          "name": "Nilson Angulo",
+          "name": "Gonzalo Plata",
+          "nat": "Ecuador",
+          "goals": 1,
+          "current": false
+        }
+      ]
+    },
+    {
+      "club": "Deportivo Toluca",
+      "nation": "Mexico",
+      "league": "Liga MX",
+      "logo": null,
+      "goals": 1,
+      "players": [
+        {
+          "name": "Gonzalo Plata",
           "nat": "Ecuador",
           "goals": 1,
           "current": false
@@ -5015,9 +4835,24 @@
       ]
     },
     {
-      "club": "Consadole Sapporo",
+      "club": "Southampton",
+      "nation": "England",
+      "league": "Premier League",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/c/c9/FC_Southampton.svg",
+      "goals": 1,
+      "players": [
+        {
+          "name": "Virgil van Dijk",
+          "nat": "Netherlands",
+          "goals": 1,
+          "current": false
+        }
+      ]
+    },
+    {
+      "club": "Zweigen Kanazawa",
       "nation": "Japan",
-      "league": "J1 League",
+      "league": "J2 League",
       "logo": null,
       "goals": 1,
       "players": [
@@ -5062,7 +4897,7 @@
     {
       "club": "Swansea City",
       "nation": "Wales",
-      "league": "Championship",
+      "league": "EFL Championship",
       "logo": null,
       "goals": 1,
       "players": [
@@ -5105,7 +4940,22 @@
       ]
     },
     {
-      "club": "Hatayspor",
+      "club": "Sparta Rotterdam (loan)",
+      "nation": "Netherlands",
+      "league": "Eredivisie",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/6/6c/Sparta_Rotterdam.svg",
+      "goals": 1,
+      "players": [
+        {
+          "name": "Omar Rekik",
+          "nat": "Tunisia",
+          "goals": 1,
+          "current": false
+        }
+      ]
+    },
+    {
+      "club": "Hatayspor (loan)",
       "nation": "Turkey",
       "league": "Süper Lig",
       "logo": null,
@@ -5120,9 +4970,9 @@
       ]
     },
     {
-      "club": "KV Kortrijk",
-      "nation": "Belgium",
-      "league": "First Division A",
+      "club": "Cagliari (loan)",
+      "nation": "Italy",
+      "league": "Serie A",
       "logo": null,
       "goals": 1,
       "players": [
@@ -5135,7 +4985,22 @@
       ]
     },
     {
-      "club": "Kawasaki Frontale",
+      "club": "Parma",
+      "nation": "Italy",
+      "league": "Serie A",
+      "logo": null,
+      "goals": 1,
+      "players": [
+        {
+          "name": "Omar Rekik",
+          "nat": "Tunisia",
+          "goals": 1,
+          "current": true
+        }
+      ]
+    },
+    {
+      "club": "Kashiwa Reysol",
       "nation": "Japan",
       "league": "J1 League",
       "logo": null,
@@ -5152,7 +5017,7 @@
     {
       "club": "Gent",
       "nation": "Belgium",
-      "league": "First Division A",
+      "league": "Belgian First Division A",
       "logo": null,
       "goals": 1,
       "players": [
@@ -5165,7 +5030,7 @@
       ]
     },
     {
-      "club": "Racing Club de Lens",
+      "club": "Reims (loan)",
       "nation": "France",
       "league": "Ligue 1",
       "logo": null,
@@ -5195,9 +5060,9 @@
       ]
     },
     {
-      "club": "Marítimo",
-      "nation": "Portugal",
-      "league": "Primeira Liga",
+      "club": "Gamba Osaka (loan)",
+      "nation": "Japan",
+      "league": "J1 League",
       "logo": null,
       "goals": 1,
       "players": [
@@ -5210,9 +5075,9 @@
       ]
     },
     {
-      "club": "Gamba Osaka",
-      "nation": "Japan",
-      "league": "J1 League",
+      "club": "Portimonense (loan)",
+      "nation": "Portugal",
+      "league": "Primeira Liga",
       "logo": null,
       "goals": 1,
       "players": [
@@ -5240,7 +5105,7 @@
       ]
     },
     {
-      "club": "CS Sfaxien",
+      "club": "Stade Tunisien",
       "nation": "Tunisia",
       "league": "Ligue Professionnelle 1",
       "logo": null,
@@ -5270,30 +5135,60 @@
       ]
     },
     {
-      "club": "Espérance Sportive de Tunis",
-      "nation": "Tunisia",
-      "league": "Ligue Professionnelle 1",
-      "logo": null,
-      "goals": 1,
-      "players": [
-        {
-          "name": "Hazem Mastouri",
-          "nat": "Tunisia",
-          "goals": 1,
-          "current": true
-        }
-      ]
-    },
-    {
-      "club": "NAC Breda",
+      "club": "Bluefinch Breda",
       "nation": "Netherlands",
-      "league": "Eerste Divisie",
+      "league": "Eredivisie",
       "logo": null,
       "goals": 1,
       "players": [
         {
           "name": "Jan Paul van Hecke",
           "nat": "Netherlands",
+          "goals": 1,
+          "current": false
+        }
+      ]
+    },
+    {
+      "club": "NAC Breda",
+      "nation": "Netherlands",
+      "league": "Eredivisie",
+      "logo": null,
+      "goals": 1,
+      "players": [
+        {
+          "name": "Jan Paul van Hecke",
+          "nat": "Netherlands",
+          "goals": 1,
+          "current": false
+        }
+      ]
+    },
+    {
+      "club": "Beerschot V.A.",
+      "nation": "Belgium",
+      "league": "First Division A",
+      "logo": null,
+      "goals": 1,
+      "players": [
+        {
+          "name": "Jan Paul van Hecke",
+          "nat": "Netherlands",
+          "goals": 1,
+          "current": false
+        }
+      ]
+    },
+    {
+      "club": "Esteghlal FC",
+      "nation": "Iran",
+      "league": "Persian Gulf Pro League",
+      "logo": null,
+      "goals": 1,
+      "players": [
+        {
+          "name": "Mohammad Mohebbi",
+          "nat": "Iran",
           "goals": 1,
           "current": false
         }
@@ -5315,15 +5210,15 @@
       ]
     },
     {
-      "club": "Auckland City FC",
-      "nation": "New Zealand",
-      "league": "National League",
+      "club": "Ismaily SC",
+      "nation": "Egypt",
+      "league": "Egyptian Premier League",
       "logo": null,
       "goals": 1,
       "players": [
         {
-          "name": "Finn Surman",
-          "nat": "New Zealand",
+          "name": "Mostafa Zico",
+          "nat": "Egypt",
           "goals": 1,
           "current": true
         }
@@ -5345,10 +5240,10 @@
       ]
     },
     {
-      "club": "Chelsea FC",
-      "nation": "England",
-      "league": "Premier League",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/c/cc/Chelsea_FC.svg",
+      "club": "Basel",
+      "nation": "Switzerland",
+      "league": "Swiss Super League",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/1/10/FC_Basel_logo.svg",
       "goals": 1,
       "players": [
         {
@@ -5360,25 +5255,10 @@
       ]
     },
     {
-      "club": "ACF Fiorentina",
-      "nation": "Italy",
-      "league": "Serie A",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a4/ACF_Fiorentina_-_logo_%282022%29.svg",
-      "goals": 1,
-      "players": [
-        {
-          "name": "Mohamed Salah",
-          "nat": "Egypt",
-          "goals": 1,
-          "current": false
-        }
-      ]
-    },
-    {
-      "club": "Liverpool FC",
-      "nation": "England",
-      "league": "Premier League",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg",
+      "club": "Al Hilal",
+      "nation": "Saudi Arabia",
+      "league": "Saudi Pro League",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/c/c7/Al-Hilal-Logo.svg",
       "goals": 1,
       "players": [
         {
@@ -5390,22 +5270,7 @@
       ]
     },
     {
-      "club": "Panathinaikos",
-      "nation": "Greece",
-      "league": "Super League Greece",
-      "logo": null,
-      "goals": 1,
-      "players": [
-        {
-          "name": "Trézéguet",
-          "nat": "Egypt",
-          "goals": 1,
-          "current": false
-        }
-      ]
-    },
-    {
-      "club": "Kasimpasa",
+      "club": "Kasımpaşa",
       "nation": "Turkey",
       "league": "Süper Lig",
       "logo": null,
@@ -5420,7 +5285,7 @@
       ]
     },
     {
-      "club": "Istanbul Basaksehir",
+      "club": "Istanbul Başakşehir",
       "nation": "Turkey",
       "league": "Süper Lig",
       "logo": null,
@@ -5431,6 +5296,21 @@
           "nat": "Egypt",
           "goals": 1,
           "current": false
+        }
+      ]
+    },
+    {
+      "club": "Sharjah",
+      "nation": "UAE",
+      "league": "UAE Pro League",
+      "logo": null,
+      "goals": 1,
+      "players": [
+        {
+          "name": "Trézéguet",
+          "nat": "Egypt",
+          "goals": 1,
+          "current": true
         }
       ]
     },
@@ -5465,7 +5345,7 @@
       ]
     },
     {
-      "club": "Fénix",
+      "club": "Montevideo City Torque",
       "nation": "Uruguay",
       "league": "Primera División",
       "logo": null,
@@ -5475,22 +5355,7 @@
           "name": "Agustín Cano",
           "nat": "Uruguay",
           "goals": 1,
-          "current": false
-        }
-      ]
-    },
-    {
-      "club": "Nacional",
-      "nation": "Uruguay",
-      "league": "Primera División",
-      "logo": null,
-      "goals": 1,
-      "players": [
-        {
-          "name": "Agustín Cano",
-          "nat": "Uruguay",
-          "goals": 1,
-          "current": false
+          "current": true
         }
       ]
     },
@@ -5505,72 +5370,12 @@
           "name": "Kevin Pina",
           "nat": "Cape Verde",
           "goals": 1,
-          "current": false
+          "current": true
         }
       ]
     },
     {
-      "club": "Belenenses SAD",
-      "nation": "Portugal",
-      "league": "Primeira Liga",
-      "logo": null,
-      "goals": 1,
-      "players": [
-        {
-          "name": "Kevin Pina",
-          "nat": "Cape Verde",
-          "goals": 1,
-          "current": false
-        }
-      ]
-    },
-    {
-      "club": "Barnsley",
-      "nation": "England",
-      "league": "EFL Championship",
-      "logo": null,
-      "goals": 1,
-      "players": [
-        {
-          "name": "Kevin Pina",
-          "nat": "Cape Verde",
-          "goals": 1,
-          "current": false
-        }
-      ]
-    },
-    {
-      "club": "Académica",
-      "nation": "Portugal",
-      "league": "Liga 3",
-      "logo": null,
-      "goals": 1,
-      "players": [
-        {
-          "name": "Hélio Varela",
-          "nat": "Cape Verde",
-          "goals": 1,
-          "current": false
-        }
-      ]
-    },
-    {
-      "club": "Portimonense",
-      "nation": "Portugal",
-      "league": "Primeira Liga",
-      "logo": null,
-      "goals": 1,
-      "players": [
-        {
-          "name": "Hélio Varela",
-          "nat": "Cape Verde",
-          "goals": 1,
-          "current": false
-        }
-      ]
-    },
-    {
-      "club": "Gil Vicente",
+      "club": "FC Arouca",
       "nation": "Portugal",
       "league": "Primeira Liga",
       "logo": null,
@@ -5585,52 +5390,52 @@
       ]
     },
     {
-      "club": "Villarreal B",
-      "nation": "Spain",
-      "league": "Segunda División B",
+      "club": "Stade Reims",
+      "nation": "France",
+      "league": "Ligue 1",
       "logo": null,
       "goals": 1,
       "players": [
         {
-          "name": "Álex Baena",
-          "nat": "Spain",
+          "name": "Ibrahim Mbaye",
+          "nat": "Senegal",
           "goals": 1,
-          "current": false
-        }
-      ]
-    },
-    {
-      "club": "Girona",
-      "nation": "Spain",
-      "league": "La Liga",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/6/6e/Girona_FC_logo.svg",
-      "goals": 1,
-      "players": [
-        {
-          "name": "Álex Baena",
-          "nat": "Spain",
-          "goals": 1,
-          "current": false
-        }
-      ]
-    },
-    {
-      "club": "Lyon",
-      "nation": "France",
-      "league": "Ligue 1",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/6/6a/Olympique_Lyonnais_logo.svg",
-      "goals": 1,
-      "players": [
-        {
-          "name": "Bradley Barcola",
-          "nat": "France",
-          "goals": 1,
-          "current": false
+          "current": true
         }
       ]
     },
     {
       "club": "Al-Zawraa",
+      "nation": "Iraq",
+      "league": "Iraqi Premier League",
+      "logo": null,
+      "goals": 1,
+      "players": [
+        {
+          "name": "Aymen Hussein",
+          "nat": "Iraq",
+          "goals": 1,
+          "current": false
+        }
+      ]
+    },
+    {
+      "club": "Al-Shorta",
+      "nation": "Iraq",
+      "league": "Iraqi Premier League",
+      "logo": null,
+      "goals": 1,
+      "players": [
+        {
+          "name": "Aymen Hussein",
+          "nat": "Iraq",
+          "goals": 1,
+          "current": false
+        }
+      ]
+    },
+    {
+      "club": "Erbil SC",
       "nation": "Iraq",
       "league": "Iraqi Premier League",
       "logo": null,
@@ -5690,24 +5495,9 @@
       ]
     },
     {
-      "club": "Fiorentina",
+      "club": "Spezia",
       "nation": "Italy",
       "league": "Serie A",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/2/21/Logo_Fiorentina_2022.svg",
-      "goals": 1,
-      "players": [
-        {
-          "name": "Marcus Holmgren Pedersen",
-          "nat": "Norway",
-          "goals": 1,
-          "current": false
-        }
-      ]
-    },
-    {
-      "club": "FC Nordsjælland",
-      "nation": "Denmark",
-      "league": "Danish Superliga",
       "logo": null,
       "goals": 1,
       "players": [
@@ -5720,24 +5510,99 @@
       ]
     },
     {
-      "club": "RC Strasbourg",
-      "nation": "France",
-      "league": "Ligue 1",
+      "club": "Wigan Athletic",
+      "nation": "England",
+      "league": "League One",
       "logo": null,
       "goals": 1,
       "players": [
         {
-          "name": "Habib Diarra",
+          "name": "Thelo Aasgaard",
+          "nat": "Norway",
+          "goals": 1,
+          "current": false
+        }
+      ]
+    },
+    {
+      "club": "Boreham Wood",
+      "nation": "England",
+      "league": "National League",
+      "logo": null,
+      "goals": 1,
+      "players": [
+        {
+          "name": "Iliman Ndiaye",
           "nat": "Senegal",
           "goals": 1,
-          "current": true
+          "current": false
         }
       ]
     },
     {
-      "club": "Al-Faisaly FC",
+      "club": "FC Wacker Innsbruck",
+      "nation": "Austria",
+      "league": "Austrian Football League",
+      "logo": null,
+      "goals": 1,
+      "players": [
+        {
+          "name": "Romano Schmid",
+          "nat": "Austria",
+          "goals": 1,
+          "current": false
+        }
+      ]
+    },
+    {
+      "club": "SV Werder Bremen",
+      "nation": "Germany",
+      "league": "Bundesliga",
+      "logo": null,
+      "goals": 1,
+      "players": [
+        {
+          "name": "Romano Schmid",
+          "nat": "Austria",
+          "goals": 1,
+          "current": false
+        }
+      ]
+    },
+    {
+      "club": "Fortuna Düsseldorf",
+      "nation": "Germany",
+      "league": "2. Bundesliga",
+      "logo": null,
+      "goals": 1,
+      "players": [
+        {
+          "name": "Romano Schmid",
+          "nat": "Austria",
+          "goals": 1,
+          "current": false
+        }
+      ]
+    },
+    {
+      "club": "FC Liefering",
+      "nation": "Austria",
+      "league": "2. Liga",
+      "logo": null,
+      "goals": 1,
+      "players": [
+        {
+          "name": "Romano Schmid",
+          "nat": "Austria",
+          "goals": 1,
+          "current": false
+        }
+      ]
+    },
+    {
+      "club": "Al-Faisaly SC",
       "nation": "Jordan",
-      "league": "Jordan Premier League",
+      "league": "Jordan Pro League",
       "logo": null,
       "goals": 1,
       "players": [
@@ -5752,7 +5617,7 @@
     {
       "club": "Al-Faisaly",
       "nation": "Jordan",
-      "league": "Jordan Pro League",
+      "league": "Jordan Premier League",
       "logo": null,
       "goals": 1,
       "players": [
@@ -5760,12 +5625,12 @@
           "name": "Nizar Al-Rashdan",
           "nat": "Jordan",
           "goals": 1,
-          "current": false
+          "current": true
         }
       ]
     },
     {
-      "club": "USM Bel Abbès",
+      "club": "USM Alger",
       "nation": "Algeria",
       "league": "Ligue Professionnelle 1",
       "logo": null,
@@ -5780,7 +5645,7 @@
       ]
     },
     {
-      "club": "MC Oran",
+      "club": "CS Constantine",
       "nation": "Algeria",
       "league": "Ligue Professionnelle 1",
       "logo": null,
@@ -5788,51 +5653,6 @@
       "players": [
         {
           "name": "Nadhir Benbouali",
-          "nat": "Algeria",
-          "goals": 1,
-          "current": false
-        }
-      ]
-    },
-    {
-      "club": "Clermont Foot",
-      "nation": "France",
-      "league": "Ligue 2",
-      "logo": null,
-      "goals": 1,
-      "players": [
-        {
-          "name": "Nadhir Benbouali",
-          "nat": "Algeria",
-          "goals": 1,
-          "current": false
-        }
-      ]
-    },
-    {
-      "club": "Stade Brestois 29",
-      "nation": "France",
-      "league": "Ligue 1",
-      "logo": null,
-      "goals": 1,
-      "players": [
-        {
-          "name": "Nadhir Benbouali",
-          "nat": "Algeria",
-          "goals": 1,
-          "current": false
-        }
-      ]
-    },
-    {
-      "club": "Olympique Lyonnais",
-      "nation": "France",
-      "league": "Ligue 1",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/e/e2/Olympique_Lyonnais.svg",
-      "goals": 1,
-      "players": [
-        {
-          "name": "Amine Gouiri",
           "nat": "Algeria",
           "goals": 1,
           "current": false
@@ -5843,7 +5663,7 @@
       "club": "OGC Nice",
       "nation": "France",
       "league": "Ligue 1",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/4/4d/OGC_Nice_logo.svg",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/4/47/OGC_Nice_logo.svg",
       "goals": 1,
       "players": [
         {
@@ -5855,7 +5675,7 @@
       ]
     },
     {
-      "club": "CR Belouizdad",
+      "club": "MC Alger",
       "nation": "Algeria",
       "league": "Ligue Professionnelle 1",
       "logo": null,
@@ -5885,22 +5705,7 @@
       ]
     },
     {
-      "club": "Zamalek",
-      "nation": "Egypt",
-      "league": "Egyptian Premier League",
-      "logo": null,
-      "goals": 1,
-      "players": [
-        {
-          "name": "Rafik Belghali",
-          "nat": "Algeria",
-          "goals": 1,
-          "current": false
-        }
-      ]
-    },
-    {
-      "club": "USM Alger",
+      "club": "CR Belouizdad",
       "nation": "Algeria",
       "league": "Ligue Professionnelle 1",
       "logo": null,
@@ -5915,7 +5720,7 @@
       ]
     },
     {
-      "club": "Admira Wacker",
+      "club": "Rapid Wien",
       "nation": "Austria",
       "league": "Austrian Bundesliga",
       "logo": null,
@@ -5945,7 +5750,7 @@
       ]
     },
     {
-      "club": "SKN St. Pölten",
+      "club": "FC Grodig",
       "nation": "Austria",
       "league": "Austrian Bundesliga",
       "logo": null,
@@ -5960,9 +5765,54 @@
       ]
     },
     {
+      "club": "SV Amstetten",
+      "nation": "Austria",
+      "league": "Austrian 2. Liga",
+      "logo": null,
+      "goals": 1,
+      "players": [
+        {
+          "name": "Sasa Kalajdzic",
+          "nat": "Austria",
+          "goals": 1,
+          "current": false
+        }
+      ]
+    },
+    {
+      "club": "Columbus Crew",
+      "nation": "United States",
+      "league": "MLS",
+      "logo": null,
+      "goals": 1,
+      "players": [
+        {
+          "name": "Sasa Kalajdzic",
+          "nat": "Austria",
+          "goals": 1,
+          "current": true
+        }
+      ]
+    },
+    {
+      "club": "Al-Wehdat",
+      "nation": "Jordan",
+      "league": "Jordan Premier League",
+      "logo": null,
+      "goals": 1,
+      "players": [
+        {
+          "name": "Mousa Al-Tamari",
+          "nat": "Jordan",
+          "goals": 1,
+          "current": false
+        }
+      ]
+    },
+    {
       "club": "Standard Liège",
       "nation": "Belgium",
-      "league": "First Division A",
+      "league": "Belgian First Division A",
       "logo": null,
       "goals": 1,
       "players": [
@@ -5978,7 +5828,7 @@
       "club": "Montpellier HSC",
       "nation": "France",
       "league": "Ligue 1",
-      "logo": null,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8j/Montpellier_HSC_logo.svg",
       "goals": 1,
       "players": [
         {
@@ -5986,6 +5836,21 @@
           "nat": "Jordan",
           "goals": 1,
           "current": false
+        }
+      ]
+    },
+    {
+      "club": "Lens",
+      "nation": "France",
+      "league": "Ligue 1",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Racing_Club_de_Lens_logo.svg",
+      "goals": 1,
+      "players": [
+        {
+          "name": "Mousa Al-Tamari",
+          "nat": "Jordan",
+          "goals": 1,
+          "current": true
         }
       ]
     },
@@ -6050,6 +5915,21 @@
       ]
     },
     {
+      "club": "Girona (loan)",
+      "nation": "Spain",
+      "league": "La Liga",
+      "logo": null,
+      "goals": 1,
+      "players": [
+        {
+          "name": "Giovani Lo Celso",
+          "nat": "Argentina",
+          "goals": 1,
+          "current": false
+        }
+      ]
+    },
+    {
       "club": "Racing Club",
       "nation": "Argentina",
       "league": "Liga Profesional",
@@ -6065,7 +5945,7 @@
       ]
     },
     {
-      "club": "AGMK FK",
+      "club": "Sogdiana Jizzakh",
       "nation": "Uzbekistan",
       "league": "Uzbekistan Super League",
       "logo": null,
@@ -6080,7 +5960,7 @@
       ]
     },
     {
-      "club": "Navbahor Namangan",
+      "club": "Nasaf Qarshi",
       "nation": "Uzbekistan",
       "league": "Uzbekistan Super League",
       "logo": null,
@@ -6128,7 +6008,7 @@
       "club": "Porto",
       "nation": "Portugal",
       "league": "Primeira Liga",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/3/3b/FC_Porto.svg",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/f/f1/FC_Porto.svg",
       "goals": 1,
       "players": [
         {
@@ -6140,69 +6020,9 @@
       ]
     },
     {
-      "club": "Deportes Tolima",
+      "club": "Deportivo Cali",
       "nation": "Colombia",
       "league": "Liga BetPlay",
-      "logo": null,
-      "goals": 1,
-      "players": [
-        {
-          "name": "Jáminton Campaz",
-          "nat": "Colombia",
-          "goals": 1,
-          "current": false
-        }
-      ]
-    },
-    {
-      "club": "Grêmio",
-      "nation": "Brazil",
-      "league": "Brasileirão Serie B",
-      "logo": null,
-      "goals": 1,
-      "players": [
-        {
-          "name": "Jáminton Campaz",
-          "nat": "Colombia",
-          "goals": 1,
-          "current": false
-        }
-      ]
-    },
-    {
-      "club": "Querétaro (loan)",
-      "nation": "Mexico",
-      "league": "Liga MX",
-      "logo": null,
-      "goals": 1,
-      "players": [
-        {
-          "name": "Jáminton Campaz",
-          "nat": "Colombia",
-          "goals": 1,
-          "current": false
-        }
-      ]
-    },
-    {
-      "club": "Fluminense (loan)",
-      "nation": "Brazil",
-      "league": "Brasileirão Serie A",
-      "logo": null,
-      "goals": 1,
-      "players": [
-        {
-          "name": "Jáminton Campaz",
-          "nat": "Colombia",
-          "goals": 1,
-          "current": false
-        }
-      ]
-    },
-    {
-      "club": "Atlético Tucumán (loan)",
-      "nation": "Argentina",
-      "league": "Liga Profesional",
       "logo": null,
       "goals": 1,
       "players": [
@@ -6225,6 +6045,51 @@
           "name": "Jáminton Campaz",
           "nat": "Colombia",
           "goals": 1,
+          "current": false
+        }
+      ]
+    },
+    {
+      "club": "Grêmio",
+      "nation": "Brazil",
+      "league": "Brasileirão",
+      "logo": null,
+      "goals": 1,
+      "players": [
+        {
+          "name": "Jáminton Campaz",
+          "nat": "Colombia",
+          "goals": 1,
+          "current": false
+        }
+      ]
+    },
+    {
+      "club": "Qaraghandy (loan)",
+      "nation": "Kazakhstan",
+      "league": "Kazakhstan Premier League",
+      "logo": null,
+      "goals": 1,
+      "players": [
+        {
+          "name": "Jáminton Campaz",
+          "nat": "Colombia",
+          "goals": 1,
+          "current": false
+        }
+      ]
+    },
+    {
+      "club": "Fortaleza",
+      "nation": "Brazil",
+      "league": "Brasileirão",
+      "logo": null,
+      "goals": 1,
+      "players": [
+        {
+          "name": "Jáminton Campaz",
+          "nat": "Colombia",
+          "goals": 1,
           "current": true
         }
       ]
@@ -6233,12 +6098,27 @@
       "club": "Lille",
       "nation": "France",
       "league": "Ligue 1",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/b/bc/Lille_OSC_2011.svg",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/b/b1/Lille_OSC_2011.svg",
       "goals": 1,
       "players": [
         {
           "name": "Rafael Leão",
           "nat": "Portugal",
+          "goals": 1,
+          "current": false
+        }
+      ]
+    },
+    {
+      "club": "Tout Puissant Mazembe",
+      "nation": "DR Congo",
+      "league": "Linafoot",
+      "logo": null,
+      "goals": 1,
+      "players": [
+        {
+          "name": "Fiston Mayele",
+          "nat": "DR Congo",
           "goals": 1,
           "current": false
         }
@@ -6292,7 +6172,7 @@
     {
       "club": "Lokomotiva Zagreb",
       "nation": "Croatia",
-      "league": "Hrvatska SuperSport HNL",
+      "league": "HNL",
       "logo": null,
       "goals": 1,
       "players": [
@@ -6305,9 +6185,54 @@
       ]
     },
     {
-      "club": "Slaven Belupo",
-      "nation": "Croatia",
-      "league": "Hrvatska SuperSport HNL",
+      "club": "SL Benfica",
+      "nation": "Portugal",
+      "league": "Primeira Liga",
+      "logo": null,
+      "goals": 1,
+      "players": [
+        {
+          "name": "Petar Musa",
+          "nat": "Croatia",
+          "goals": 1,
+          "current": false
+        }
+      ]
+    },
+    {
+      "club": "Boavista",
+      "nation": "Portugal",
+      "league": "Primeira Liga",
+      "logo": null,
+      "goals": 1,
+      "players": [
+        {
+          "name": "Petar Musa",
+          "nat": "Croatia",
+          "goals": 1,
+          "current": false
+        }
+      ]
+    },
+    {
+      "club": "Fatima",
+      "nation": "Portugal",
+      "league": "Liga 3",
+      "logo": null,
+      "goals": 1,
+      "players": [
+        {
+          "name": "Petar Musa",
+          "nat": "Croatia",
+          "goals": 1,
+          "current": false
+        }
+      ]
+    },
+    {
+      "club": "Dallas FC",
+      "nation": "USA",
+      "league": "MLS",
       "logo": null,
       "goals": 1,
       "players": [
@@ -6322,7 +6247,7 @@
     {
       "club": "RNK Split",
       "nation": "Croatia",
-      "league": "Hrvatska SuperSport HNL",
+      "league": "HNL",
       "logo": null,
       "goals": 1,
       "players": [
@@ -6335,9 +6260,9 @@
       ]
     },
     {
-      "club": "FC Koper",
-      "nation": "Slovenia",
-      "league": "Slovenian PrvaLiga",
+      "club": "Sampdoria",
+      "nation": "Italy",
+      "league": "Serie A",
       "logo": null,
       "goals": 1,
       "players": [
@@ -6350,7 +6275,7 @@
       ]
     },
     {
-      "club": "Crotone",
+      "club": "Carpi",
       "nation": "Italy",
       "league": "Serie B",
       "logo": null,
@@ -6365,7 +6290,7 @@
       ]
     },
     {
-      "club": "Sampdoria",
+      "club": "Crotone",
       "nation": "Italy",
       "league": "Serie A",
       "logo": null,
@@ -6425,6 +6350,21 @@
       ]
     },
     {
+      "club": "Brøndby IF",
+      "nation": "Denmark",
+      "league": "Superliga",
+      "logo": null,
+      "goals": 1,
+      "players": [
+        {
+          "name": "Derrick Luckassen",
+          "nat": "Ghana",
+          "goals": 1,
+          "current": false
+        }
+      ]
+    },
+    {
       "club": "Adana Demirspor",
       "nation": "Turkey",
       "league": "Süper Lig",
@@ -6435,7 +6375,52 @@
           "name": "Derrick Luckassen",
           "nat": "Ghana",
           "goals": 1,
+          "current": true
+        }
+      ]
+    },
+    {
+      "club": "Vitória de Setúbal",
+      "nation": "Portugal",
+      "league": "Primeira Liga",
+      "logo": null,
+      "goals": 1,
+      "players": [
+        {
+          "name": "Stephan Eustáquio",
+          "nat": "Canada",
+          "goals": 1,
           "current": false
+        }
+      ]
+    },
+    {
+      "club": "CF Os Belenenses",
+      "nation": "Portugal",
+      "league": "Primeira Liga",
+      "logo": null,
+      "goals": 1,
+      "players": [
+        {
+          "name": "Stephan Eustáquio",
+          "nat": "Canada",
+          "goals": 1,
+          "current": false
+        }
+      ]
+    },
+    {
+      "club": "FC Porto",
+      "nation": "Portugal",
+      "league": "Primeira Liga",
+      "logo": null,
+      "goals": 1,
+      "players": [
+        {
+          "name": "Stephan Eustáquio",
+          "nat": "Canada",
+          "goals": 1,
+          "current": true
         }
       ]
     }
